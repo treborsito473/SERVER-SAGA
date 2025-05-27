@@ -37,8 +37,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2025-05-27 01:36:22 +0000",
+      "minecraft:beach": "2025-05-27 01:44:59 +0000",
+      "minecraft:sparse_jungle": "2025-05-27 01:30:23 +0000",
       "minecraft:river": "2025-05-27 01:08:46 +0000",
       "minecraft:forest": "2025-05-26 01:37:29 +0000",
+      "minecraft:lush_caves": "2025-05-27 01:37:36 +0000",
+      "minecraft:desert": "2025-05-27 01:45:12 +0000",
       "minecraft:plains": "2025-05-27 01:23:57 +0000"
     },
     "done": false
@@ -2245,57 +2250,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "iceandfire:recipes/combat/armor_copper_metal_leggings": {
     "criteria": {
-      "has_chicken": "2025-05-27 01:27:59 +0000"
+      "has_the_recipe": "2025-05-27 01:21:41 +0000"
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "iceandfire:recipes/combat/armor_copper_metal_boots": {
     "criteria": {
-      "deflected_projectile": "2025-05-27 01:27:59 +0000"
+      "has_the_recipe": "2025-05-27 01:21:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken": {
+  "iceandfire:recipes/combat/armor_copper_metal_chestplate": {
     "criteria": {
-      "has_chicken": "2025-05-27 01:27:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-05-27 01:28:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-05-27 01:27:59 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/diamond_bolt": {
-    "criteria": {
-      "has_feather": "2025-05-27 01:28:37 +0000"
+      "has_the_recipe": "2025-05-27 01:21:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-05-27 01:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2025-05-27 01:28:26 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-05-27 01:28:34 +0000"
     },
     "done": true
   },
@@ -2323,21 +2298,105 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_metal_leggings": {
-    "criteria": {
-      "has_the_recipe": "2025-05-27 01:21:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_metal_boots": {
-    "criteria": {
-      "has_the_recipe": "2025-05-27 01:21:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-05-27 01:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 01:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 01:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-27 01:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-27 01:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-05-27 01:24:43 +0000",
+      "bread": "2025-05-27 01:51:41 +0000",
+      "beetroot": "2025-05-27 01:47:19 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-27 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-27 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-27 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-27 01:27:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-05-27 01:30:12 +0000",
+      "minecraft:spider": "2025-05-27 01:30:45 +0000",
+      "minecraft:husk": "2025-05-27 01:49:24 +0000",
+      "minecraft:zombie": "2025-05-27 01:28:26 +0000",
+      "minecraft:drowned": "2025-05-27 01:48:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-27 01:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-27 01:28:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-27 01:28:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-05-27 01:28:37 +0000"
     },
     "done": true
   },
@@ -2353,12 +2412,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-05-27 01:27:59 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/bolt": {
     "criteria": {
       "has_feather": "2025-05-27 01:28:37 +0000"
@@ -2368,18 +2421,6 @@
   "spartanweaponry:recipes/diamond_arrow": {
     "criteria": {
       "has_feather": "2025-05-27 01:28:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-05-27 01:22:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-05-27 01:24:21 +0000"
     },
     "done": true
   },
@@ -2395,33 +2436,275 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
-      "minecraft:zombie": "2025-05-27 01:28:26 +0000"
+      "has_melon": "2025-05-27 01:30:25 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
-      "cooked_porkchop": "2025-05-27 01:24:43 +0000"
+      "has_melon_slice": "2025-05-27 01:30:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-05-27 01:30:25 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-05-27 01:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-27 01:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-27 01:30:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-27 01:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-27 01:33:14 +0000"
+    },
+    "done": true
+  },
+  "packedup:recipes/misc/basic_from_chest": {
+    "criteria": {
+      "recipe_condition": "2025-05-27 01:33:44 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/glow_berry_juice": {
+    "criteria": {
+      "has_glow_berries": "2025-05-27 01:37:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 01:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-27 01:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-27 01:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-27 01:38:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 01:42:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-05-27 01:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-27 01:46:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-05-27 01:46:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-05-27 01:46:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-05-27 01:46:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-05-27 01:46:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-05-27 01:46:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-05-27 01:46:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 01:46:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 01:46:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 01:46:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 01:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-27 01:46:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 01:46:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "tomato": "2025-05-27 01:47:01 +0000",
+      "potato": "2025-05-27 01:47:11 +0000",
+      "carrot": "2025-05-27 01:46:51 +0000"
     },
     "done": false
   },
-  "iceandfire:recipes/combat/armor_copper_metal_chestplate": {
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
-      "has_the_recipe": "2025-05-27 01:21:47 +0000"
+      "has_beetroot": "2025-05-27 01:47:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
-      "in_water": "2025-05-27 01:22:46 +0000"
+      "has_beetroot": "2025-05-27 01:47:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
-      "in_water": "2025-05-27 01:22:46 +0000"
+      "has_any_ingredient": "2025-05-27 01:47:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-27 01:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-27 01:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-27 01:47:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 01:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-27 01:47:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 01:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-27 01:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-27 01:47:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-27 01:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-05-27 01:53:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_hoe": {
+    "criteria": {
+      "has_the_recipe": "2025-05-27 01:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-05-27 01:53:55 +0000"
     },
     "done": true
   },

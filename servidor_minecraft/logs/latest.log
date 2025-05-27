@@ -581,3 +581,20 @@
 [27May2025 01:59:49.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
 [27May2025 01:59:53.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepitogamer2301[/127.87.134.58:33519] logged in with entity id 28775 at (32.763500232366276, 64.16017123466068, -6.734709329567371)
 [27May2025 01:59:53.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 joined the game
+[27May2025 02:00:18.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> bro me voto por lanzarme y sobrebibir con agua
+[27May2025 02:00:44.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=16, y=76, z=39}
+[27May2025 02:00:45.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=76, z=40} BlockPos{x=16, y=76, z=40}
+[27May2025 02:00:45.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=76, z=40} BlockPos{x=15, y=77, z=39}
+[27May2025 02:00:54.077] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=17, y=76, z=40} BlockPos{x=15, y=78, z=39}
+[27May2025 02:01:07.070] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pepitogamer2301 lost connection: Disconnected
+[27May2025 02:01:07.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 left the game
+[27May2025 02:01:07.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27May2025 02:01:07.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27May2025 02:01:07.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27May2025 02:01:07.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27May2025 02:01:08.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27May2025 02:01:08.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27May2025 02:01:08.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27May2025 02:01:08.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27May2025 02:01:08.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27May2025 02:01:08.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

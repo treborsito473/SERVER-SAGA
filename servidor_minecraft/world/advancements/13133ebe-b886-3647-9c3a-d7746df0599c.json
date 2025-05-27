@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-05-27 01:22:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_glaive": {
     "criteria": {
       "has_cobblestone": "2025-05-27 00:51:33 +0000"
@@ -293,6 +299,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/grease_ball": {
+    "criteria": {
+      "has_meat": "2025-05-27 01:22:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-05-27 00:51:33 +0000"
@@ -368,6 +380,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-05-27 01:03:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 01:22:38 +0000"
     },
     "done": true
   },
@@ -527,6 +545,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-05-27 01:22:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-27 01:22:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_warhammer": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 01:15:15 +0000"
@@ -632,6 +662,12 @@
   "spartanweaponry:recipes/iron_rapier": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 01:15:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-27 01:21:02 +0000"
     },
     "done": true
   },
@@ -782,6 +818,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-27 01:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-05-27 01:22:38 +0000"
     },
     "done": true
   },
@@ -1151,6 +1193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-05-27 01:22:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-05-27 01:15:15 +0000"
@@ -1228,6 +1276,13 @@
       "has_cobblestone": "2025-05-27 00:51:33 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-05-27 01:28:37 +0000",
+      "rotten_flesh": "2025-05-27 01:21:02 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/stone_halberd": {
     "criteria": {

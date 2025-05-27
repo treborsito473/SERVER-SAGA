@@ -369,3 +369,45 @@
 [27May2025 01:09:08.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 has made the advancement [Will it Come Back?]
 [27May2025 01:09:16.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
 [27May2025 01:09:25.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> se ve prometedor
+[27May2025 01:12:16.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[27May2025 01:12:16.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[27May2025 01:12:50.090] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:40387] logged in with entity id 5491 at (45.726803919145325, 10.0, 5.467721206550146)
+[27May2025 01:12:50.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[27May2025 01:12:56.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 has made the advancement [Monster Hunter]
+[27May2025 01:13:19.622] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5a659543[id=<null>,name=joaocover,properties={},legacy=false] (/127.66.89.196:35707) lost connection: Disconnected
+[27May2025 01:13:26.576] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.66.89.196:58529] logged in with entity id 5659 at (-8.5, 218.0, 29.5)
+[27May2025 01:13:26.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[27May2025 01:13:26.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Ice and Fire]
+[27May2025 01:13:27.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Ghost Riders In The Sky]
+[27May2025 01:13:32.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was burnt to a crisp whilst fighting Wither Skeleton
+[27May2025 01:13:37.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> joao salta
+[27May2025 01:13:56.372] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27May2025 01:13:56.372] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27May2025 01:14:08.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Diamonds!]
+[27May2025 01:14:10.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Cover Me with Diamonds]
+[27May2025 01:14:13.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
+[27May2025 01:14:21.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> ese crativo
+[27May2025 01:14:27.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[27May2025 01:14:36.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Alex's Mobs]
+[27May2025 01:14:53.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Wither Skeleton
+[27May2025 01:14:54.875] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27May2025 01:14:54.875] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[27May2025 01:15:11.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> se cheta y ni aun asi ase algo
+[27May2025 01:15:12.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover fell from a high place
+[27May2025 01:15:13.642] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27May2025 01:15:13.642] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[27May2025 01:15:15.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 has made the advancement [Acquire Hardware]
+[27May2025 01:15:43.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> tw
+[27May2025 01:15:57.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover fell from a high place
+[27May2025 01:15:59.261] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27May2025 01:15:59.262] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27May2025 01:16:03.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Hoglin
+[27May2025 01:16:05.059] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[27May2025 01:16:05.060] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[27May2025 01:16:14.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> tpatelo coli
+[27May2025 01:16:24.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported joaocover to -14.850000, 74.000000, 33.740000]
+[27May2025 01:16:29.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> hola
+[27May2025 01:17:14.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[27May2025 01:17:14.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[27May2025 01:17:29.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> bro el bumerang se bugueo y desaparecio
+[27May2025 01:17:41.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD

@@ -2696,15 +2696,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/silver_hoe": {
-    "criteria": {
-      "has_the_recipe": "2025-05-27 01:54:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-05-27 01:53:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_hoe": {
+    "criteria": {
+      "has_the_recipe": "2025-05-27 01:54:27 +0000"
     },
     "done": true
   },

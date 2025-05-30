@@ -6764,3 +6764,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [30May2025 01:09:47.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30May2025 01:09:47.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [30May2025 01:10:06.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 has made the advancement [Hammer Time!]
+[30May2025 01:10:53.466] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[30May2025 01:14:47.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 01:14:47.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30May2025 01:16:38.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 has made the advancement [Reaping What You Sow]
+[30May2025 01:19:47.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30May2025 01:19:47.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

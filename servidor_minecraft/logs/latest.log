@@ -63,3 +63,132 @@
 [30May2025 00:19:02.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> la mia dice gmanriquep
 [30May2025 00:19:04.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> es la que tiene una imagen naranja de algo xd pera confirmo name
 [30May2025 00:19:21.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> o tommy m xd
+[30May2025 00:20:25.063] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:60519] logged in with entity id 5830 at (-394.5, 63.0, -364.5)
+[30May2025 00:20:25.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[30May2025 00:20:36.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> chicozzzzzzzzz
+[30May2025 00:20:55.164] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
+[30May2025 00:20:55.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[30May2025 00:20:57.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> estafador el server esta mas lagg qeu el left en tu pc
+[30May2025 00:21:24.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> y no exagero lit no me cargo la isla en la que apareci y me mori en el piso
+[30May2025 00:23:02.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[30May2025 00:23:02.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[30May2025 00:23:02.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[30May2025 00:23:02.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[30May2025 00:23:02.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[30May2025 00:23:02.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[30May2025 00:23:02.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[30May2025 00:23:02.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[30May2025 00:23:02.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[30May2025 00:23:02.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[30May2025 00:23:02.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[30May2025 00:23:02.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[30May2025 00:23:02.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[30May2025 00:23:02.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[30May2025 00:23:02.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[30May2025 00:23:02.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[30May2025 00:23:02.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[30May2025 00:23:02.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[30May2025 00:23:02.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[30May2025 00:23:02.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[30May2025 00:23:02.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[30May2025 00:23:02.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[30May2025 00:23:02.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderXpOreGen|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|maxXpVariation|mobExplosionDropDecay|mobGriefing|naturalRegeneration|netherXpOreGen|overworldXpOreGen|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion|xpBase|xpOreGen)
+[30May2025 00:23:02.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[30May2025 00:23:02.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[30May2025 00:23:02.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[30May2025 00:23:02.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[30May2025 00:23:02.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[30May2025 00:23:02.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[30May2025 00:23:02.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[30May2025 00:23:02.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[30May2025 00:23:02.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[30May2025 00:23:02.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[30May2025 00:23:02.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[30May2025 00:23:02.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[30May2025 00:23:02.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[30May2025 00:23:02.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[30May2025 00:23:02.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[30May2025 00:23:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[30May2025 00:23:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[30May2025 00:23:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[30May2025 00:23:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[30May2025 00:23:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[30May2025 00:23:02.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[30May2025 00:23:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[30May2025 00:23:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[30May2025 00:23:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[30May2025 00:23:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[30May2025 00:23:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[30May2025 00:23:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[30May2025 00:23:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[30May2025 00:23:02.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[30May2025 00:23:02.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[30May2025 00:23:02.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[30May2025 00:23:02.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[30May2025 00:23:02.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[30May2025 00:23:02.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[30May2025 00:23:02.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[30May2025 00:23:02.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[30May2025 00:23:02.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[30May2025 00:23:02.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[30May2025 00:23:02.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[30May2025 00:23:02.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[30May2025 00:23:02.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[30May2025 00:23:02.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[30May2025 00:23:02.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[30May2025 00:23:02.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[30May2025 00:23:02.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[30May2025 00:23:02.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[30May2025 00:23:02.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[30May2025 00:23:02.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[30May2025 00:23:02.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[30May2025 00:23:02.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[30May2025 00:23:02.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[30May2025 00:23:02.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[30May2025 00:23:02.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[30May2025 00:23:02.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[30May2025 00:23:02.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[30May2025 00:23:02.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[30May2025 00:23:02.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sl_nbt (block|entity|item)
+[30May2025 00:23:02.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sl_tp <entity> <dimension> <pos>
+[30May2025 00:23:02.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /aptitudes <player> <aptitude> (get|set)
+[30May2025 00:23:02.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /titles <player> <title> set (true|false)
+[30May2025 00:23:02.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summongolem <type> [<pos>]
+[30May2025 00:23:02.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spartanweaponry (applyOil|applyPotionOil|clearOil)
+[30May2025 00:23:02.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sw -> spartanweaponry
+[30May2025 00:23:02.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damagePart (HEAD|LEFT_ARM|LEFT_LEG|LEFT_FOOT|BODY|RIGHT_ARM|RIGHT_LEG|RIGHT_FOOT|ALL)
+[30May2025 00:23:02.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sh_difficulty (get|set|add)
+[30May2025 00:23:02.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sh_health (get|set|add)
+[30May2025 00:23:02.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sh_power (get|set|add)
+[30May2025 00:23:02.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sh_recalculate all
+[30May2025 00:23:02.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sh_summon <entity> [<difficulty>]
+[30May2025 00:23:02.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[30May2025 00:23:02.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[30May2025 00:23:02.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /structure_gel (savestructures|getspawns|getstructures|getbiomes|viewbounds|building_tool|distance|getfeatures)
+[30May2025 00:23:29.958] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pepitogamer2301[/127.87.134.58:32997] logged in with entity id 6724 at (-6.543942049223642, 69.0, 57.413696722929906)
+[30May2025 00:23:29.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pepitogamer2301 joined the game
+[30May2025 00:23:40.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> MATHEW :D
+[30May2025 00:23:51.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> si era el mismo mundo
+[30May2025 00:24:14.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> gus pasame tus coordenadas
+[30May2025 00:24:26.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> si era la de tommy gus xd
+[30May2025 00:24:40.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:59185] logged in with entity id 6914 at (-452.5895273902017, 66.48121948963345, -368.23148431872215)
+[30May2025 00:24:40.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[30May2025 00:24:42.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30May2025 00:24:42.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: como a ustedes les va bien xd?<--[HERE]
+[30May2025 00:24:49.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> mathew en mine D: milagro
+[30May2025 00:25:05.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> -71 66 51
+[30May2025 00:25:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> tranqui q nisiquiera tenia ganas de entrar
+[30May2025 00:25:10.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
+[30May2025 00:25:10.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[30May2025 00:25:47.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd
+[30May2025 00:27:45.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> creo que literalmente estoy abajo de ustedes xd
+[30May2025 00:27:49.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> bro tengo mala una pata como me curo?
+[30May2025 00:27:58.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> xd'?
+[30May2025 00:28:01.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> a chucha se me olvido
+[30May2025 00:28:10.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> craftea una curita
+[30May2025 00:28:13.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> la pata es con vendajes de lana e hilo
+[30May2025 00:28:29.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> na zuemi tu estas debajo de la cabeza del mosquito
+[30May2025 00:28:37.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd?
+[30May2025 00:28:57.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> hace un rato si los vi en el minimap
+[30May2025 00:29:04.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pepitogamer2301> hace rato
+[30May2025 00:29:26.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> casa xd

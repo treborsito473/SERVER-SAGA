@@ -1927,3 +1927,13 @@ java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capab
 [31May2025 22:05:21.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
 [31May2025 22:05:23.453] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [31May2025 22:05:23.453] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 22:07:16.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
+[31May2025 22:07:17.680] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 22:07:17.681] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 22:07:54.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[31May2025 22:08:34.091] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/94299, l='ServerLevel[world]', x=104.50, y=51.00, z=-356.50]
+[31May2025 22:09:31.389] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/94862, l='ServerLevel[world]', x=97.50, y=47.00, z=-381.50]
+[31May2025 22:11:08.889] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/95361, l='ServerLevel[world]', x=96.50, y=47.00, z=-380.50]
+[31May2025 22:11:30.390] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/95657, l='ServerLevel[world]', x=96.50, y=50.00, z=-360.50]
+[31May2025 22:11:49.890] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/95862, l='ServerLevel[world]', x=104.50, y=52.00, z=-357.50]
+[31May2025 22:12:22.590] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/96025, l='ServerLevel[world]', x=102.50, y=52.00, z=-361.50]

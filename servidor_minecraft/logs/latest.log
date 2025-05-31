@@ -1825,3 +1825,23 @@ java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capab
 [31May2025 21:24:31.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Cave Spider
 [31May2025 21:24:32.932] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [31May2025 21:24:32.932] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:26:02.492] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/74789, l='ServerLevel[world]', x=104.50, y=52.00, z=-367.50]
+[31May2025 21:26:15.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Cave Spider
+[31May2025 21:26:17.434] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:26:17.435] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 21:26:35.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Crops of the Wild]
+[31May2025 21:26:50.040] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/75682, l='ServerLevel[world]', x=101.50, y=52.00, z=-379.50]
+[31May2025 21:27:37.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was burnt to a crisp whilst fighting Umvuthi, the Sunbird
+[31May2025 21:27:38.955] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:27:38.956] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 21:29:12.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Umvuthi, the Sunbird
+[31May2025 21:29:14.421] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:29:14.421] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 21:29:32.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara moved too quickly! -8.181954519836012,1.8693736602695026,-5.702569339775664
+[31May2025 21:30:40.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Umvuthi, the Sunbird
+[31May2025 21:30:42.183] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:30:42.183] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 21:31:45.390] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/80479, l='ServerLevel[world]', x=99.50, y=50.00, z=-369.50]
+[31May2025 21:34:32.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by C0LIGAMES
+[31May2025 21:34:35.328] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:34:35.328] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty

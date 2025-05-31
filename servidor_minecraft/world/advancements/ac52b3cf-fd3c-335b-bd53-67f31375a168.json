@@ -2606,6 +2606,12 @@
     },
     "done": true
   },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "has_saber": "2025-05-31 21:53:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_pickaxe": "2025-05-31 21:06:23 +0000"

@@ -1906,3 +1906,24 @@ java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capab
 [31May2025 21:52:38.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
 [31May2025 21:53:38.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Swashbuckler]
 [31May2025 21:55:16.452] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[31May2025 21:55:38.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
+[31May2025 21:58:13.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by C0LIGAMES
+[31May2025 21:58:15.768] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:58:15.768] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:58:42.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Zombie
+[31May2025 21:58:44.318] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:58:44.319] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 21:58:56.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by C0LIGAMES
+[31May2025 21:58:58.357] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:58:58.357] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 22:01:06.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara died
+[31May2025 22:01:06.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Killed Anzu_ara]
+[31May2025 22:01:07.914] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 22:01:07.915] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 22:01:10.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to Anzu_ara]
+[31May2025 22:01:11.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[31May2025 22:01:11.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[31May2025 22:03:36.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[31May2025 22:05:21.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
+[31May2025 22:05:23.453] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 22:05:23.453] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty

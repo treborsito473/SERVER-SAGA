@@ -1943,3 +1943,11 @@ java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capab
 [31May2025 22:23:28.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:39929] logged in with entity id 99301 at (126.30799887353986, 123.0, -395.4930099392691)
 [31May2025 22:23:28.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
 [31May2025 22:25:48.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[31May2025 22:32:39.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
+[31May2025 22:32:41.185] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 22:32:41.185] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 22:36:40.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[31May2025 22:37:22.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[31May2025 22:37:53.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Hot Stuff]
+[31May2025 22:43:39.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[31May2025 22:45:13.690] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/107380, l='ServerLevel[world]', x=97.50, y=52.00, z=-359.50]

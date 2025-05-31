@@ -2837,3 +2837,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31May2025 18:48:20.566] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31May2025 18:48:20.576] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [31May2025 18:53:05.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Acquire Hardware]
+[31May2025 18:53:20.571] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 18:53:20.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 18:54:19.257] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 18:54:20.348] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 18:57:40.843] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 18:57:41.393] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 18:57:42.643] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 18:58:20.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 18:58:20.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

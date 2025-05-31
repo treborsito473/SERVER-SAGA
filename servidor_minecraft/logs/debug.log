@@ -2798,3 +2798,33 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31May2025 18:13:47.926] [Server thread/DEBUG] [Scaling Health/]: Sending login packet to player ServerPlayer['Anzu_ara'/99, l='ServerLevel[world]', x=8.30, y=62.00, z=-103.70]
 [31May2025 18:18:20.599] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31May2025 18:18:20.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 18:23:20.581] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 18:23:20.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 18:24:09.339] [Worker-Main-2/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[31May2025 18:24:11.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=61, z=-208} BlockPos{x=-25, y=62, z=-208}
+[31May2025 18:28:20.569] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 18:28:20.580] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 18:28:34.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara moved too quickly! -1.502096559057705,-10.806526110008988,0.36347776234913454
+[31May2025 18:30:29.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 18:30:37.348] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 18:30:37.437] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 18:30:39.192] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 18:30:39.411] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 18:30:41.368] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 18:30:41.391] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 18:30:41.615] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 18:30:41.867] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 18:30:43.313] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 18:30:48.645] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 18:30:48.811] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 18:30:49.016] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 18:30:49.221] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 18:30:50.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 18:30:51.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 18:30:51.492] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 18:30:52.744] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 18:30:53.290] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 18:30:53.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Zombie
+[31May2025 18:30:54.620] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 18:30:54.621] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 18:30:54.648] [Server thread/DEBUG] [firstaid/]: Reloaded lookups

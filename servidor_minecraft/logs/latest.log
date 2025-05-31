@@ -215,3 +215,8 @@
 [31May2025 18:13:20.587] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [31May2025 18:13:47.681] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.253.80.44:42895] logged in with entity id 99 at (8.300000011920929, 62.0, -103.69999998807907)
 [31May2025 18:13:47.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[31May2025 18:24:11.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-25, y=61, z=-208} BlockPos{x=-25, y=62, z=-208}
+[31May2025 18:28:34.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara moved too quickly! -1.502096559057705,-10.806526110008988,0.36347776234913454
+[31May2025 18:30:53.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Zombie
+[31May2025 18:30:54.620] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 18:30:54.621] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty

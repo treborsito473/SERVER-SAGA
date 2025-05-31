@@ -413,7 +413,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-05-29 23:54:04 +0000"
+      "minecraft:skeleton": "2025-05-31 16:21:37 +0000",
+      "minecraft:spider": "2025-05-29 23:54:04 +0000",
+      "minecraft:zombie": "2025-05-31 16:23:40 +0000",
+      "minecraft:zombie_villager": "2025-05-31 16:21:22 +0000"
     },
     "done": false
   },
@@ -1257,6 +1260,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 16:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-05-31 15:57:36 +0000"
@@ -1353,6 +1362,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 16:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-05-31 15:40:05 +0000"
@@ -1413,6 +1428,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-31 16:23:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-05-31 15:45:10 +0000"
@@ -1470,6 +1491,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-05-31 16:12:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-05-31 16:23:27 +0000"
     },
     "done": true
   },
@@ -1569,6 +1596,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-31 16:20:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 16:23:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-05-31 15:57:20 +0000"
@@ -1599,9 +1638,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-05-31 16:23:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/bolt": {
     "criteria": {
       "has_feather": "2025-05-31 16:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-31 16:23:58 +0000"
     },
     "done": true
   },
@@ -1632,6 +1683,12 @@
   "iceandfire:iceandfire/dragon_forge_brick": {
     "criteria": {
       "forge": "2025-05-31 15:34:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-05-31 16:21:22 +0000"
     },
     "done": true
   },
@@ -1707,6 +1764,18 @@
       "cooked_chicken": "2025-05-31 16:13:42 +0000"
     },
     "done": false
+  },
+  "toughasnails:recipes/food/charc_os": {
+    "criteria": {
+      "has_charcoal": "2025-05-31 16:31:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-31 16:23:58 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
     "criteria": {

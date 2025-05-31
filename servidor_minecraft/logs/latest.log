@@ -276,3 +276,14 @@
 [31May2025 16:22:23.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was shot by Skeleton
 [31May2025 16:22:25.060] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [31May2025 16:22:25.060] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 16:24:42.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Spider
+[31May2025 16:24:44.058] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 16:24:44.059] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 16:25:34.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Zombie
+[31May2025 16:25:35.747] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 16:25:35.747] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 16:25:44.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Zombie
+[31May2025 16:25:45.843] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 16:25:45.843] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 16:32:14.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[31May2025 16:32:14.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game

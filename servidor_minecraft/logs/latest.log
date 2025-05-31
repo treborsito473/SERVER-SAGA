@@ -1879,3 +1879,30 @@ java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capab
 [31May2025 21:42:22.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
 [31May2025 21:42:29.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
 [31May2025 21:44:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to Anzu_ara]
+[31May2025 21:45:44.210] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[31May2025 21:46:30.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to Anzu_ara]
+[31May2025 21:47:36.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[31May2025 21:47:48.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[31May2025 21:48:16.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Anzu_ara
+[31May2025 21:48:17.573] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:48:17.574] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 21:48:20.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by C0LIGAMES
+[31May2025 21:48:21.867] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:48:21.868] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:49:13.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Take Aim]
+[31May2025 21:49:29.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara died
+[31May2025 21:49:29.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Killed Anzu_ara]
+[31May2025 21:49:32.086] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:49:32.086] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 21:49:34.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to Anzu_ara]
+[31May2025 21:50:57.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to Anzu_ara]
+[31May2025 21:51:18.605] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[31May2025 21:51:18.855] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[31May2025 21:51:36.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [En Garde!]
+[31May2025 21:51:56.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to Anzu_ara]
+[31May2025 21:52:35.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara drowned
+[31May2025 21:52:37.214] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:52:37.214] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 21:52:38.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[31May2025 21:53:38.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Swashbuckler]
+[31May2025 21:55:16.452] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})

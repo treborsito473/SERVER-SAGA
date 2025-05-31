@@ -3846,6 +3846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-31 21:46:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-05-31 20:43:01 +0000"
@@ -3855,6 +3861,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-05-31 20:43:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/copper_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2025-05-31 21:44:37 +0000"
     },
     "done": true
   },

@@ -3080,3 +3080,57 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [31May2025 15:58:25.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [31May2025 15:58:28.578] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [31May2025 15:58:28.579] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 16:02:53.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 16:02:53.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 16:04:01.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 16:04:01.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 16:04:51.531] [Server thread/DEBUG] [mixin/]: Mixing VillagerGoalPackagesMixin from guardvillagers.mixins.json into net.minecraft.world.entity.ai.behavior.VillagerGoalPackages
+[31May2025 16:05:09.967] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 16:05:38.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 16:05:41.484] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 16:05:41.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 16:05:57.127] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 16:06:01.427] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 16:06:09.081] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:06:29.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Sweet Dreams]
+[31May2025 16:07:03.914] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:07:06.614] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:07:06.985] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 16:07:07.372] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 16:07:07.635] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 16:07:11.619] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:07:12.322] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:07:12.815] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:07:16.642] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:07:21.016] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:07:25.816] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:07:26.817] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:07:26.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Ghost
+[31May2025 16:07:29.073] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 16:07:29.074] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 16:07:29.080] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:07:33.515] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:07:41.613] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:07:41.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Ghost
+[31May2025 16:07:43.107] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 16:07:43.107] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 16:07:43.142] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:07:47.169] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:07:49.499] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:07:50.616] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:07:53.937] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 16:07:53.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 16:08:06.421] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=219, z=49} BlockPos{x=3, y=220, z=48}
+[31May2025 16:08:08.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=219, z=49} BlockPos{x=3, y=221, z=48}
+[31May2025 16:08:10.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=219, z=49} BlockPos{x=3, y=221, z=48}
+[31May2025 16:08:11.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=219, z=49} BlockPos{x=3, y=220, z=48}
+[31May2025 16:08:17.814] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:08:18.813] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:08:19.813] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:08:20.763] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:08:20.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was shot by Wither Skeleton
+[31May2025 16:08:22.363] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 16:08:22.364] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 16:08:22.400] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 16:09:21.320] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 16:09:38.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!

@@ -256,3 +256,17 @@
 [31May2025 15:47:20.728] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=73, z=10} BlockPos{x=9, y=52, z=17}
 [31May2025 15:47:20.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=73, z=10} BlockPos{x=9, y=52, z=16}
 [31May2025 15:47:21.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=26, y=73, z=10} BlockPos{x=9, y=53, z=16}
+[31May2025 16:06:29.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Sweet Dreams]
+[31May2025 16:07:26.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Ghost
+[31May2025 16:07:29.073] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 16:07:29.074] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 16:07:41.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Ghost
+[31May2025 16:07:43.107] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 16:07:43.107] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 16:08:06.421] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=219, z=49} BlockPos{x=3, y=220, z=48}
+[31May2025 16:08:08.772] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=219, z=49} BlockPos{x=3, y=221, z=48}
+[31May2025 16:08:10.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=219, z=49} BlockPos{x=3, y=221, z=48}
+[31May2025 16:08:11.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3, y=219, z=49} BlockPos{x=3, y=220, z=48}
+[31May2025 16:08:20.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was shot by Wither Skeleton
+[31May2025 16:08:22.363] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 16:08:22.364] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty

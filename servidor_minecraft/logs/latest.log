@@ -281,3 +281,143 @@
 [31May2025 23:21:52.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
 [31May2025 23:21:52.164] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [31May2025 23:23:57.365] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@261b11[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.253.80.44:44203) lost connection: Disconnected
+[31May2025 23:25:23.202] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[31May2025 23:25:23.203] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@1d42f7b1 onAttackEntity(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		2: NORMAL
+		3: ASM: class vectorwing.farmersdelight.common.item.enchantment.BackstabbingEnchantment$BackstabbingEvent onKnifeBackstab(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		4: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@77c0a2a3 onLivingHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		5: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@3e60f73a onTakeDamage(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		6: ASM: class com.mcmoddev.golems.EGEvents$ForgeHandler onLivingHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		7: ASM: class tallestegg.guardvillagers.HandlerEvents onEntityHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		8: ASM: class com.oblivioussp.spartanweaponry.event.CommonEventHandler onLivingHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		9: ASM: class net.silentchaos512.scalinghealth.event.PlayerBonusRegenHandler onPlayerHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@69859214 onEntityDamage(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+		11: LOWEST
+		12: ASM: class ichttt.mods.firstaid.common.EventHandler onLivingHurt(Lnet/minecraftforge/event/entity/living/LivingHurtEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.7/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.network.simple.SimpleChannel.sendToServer(SimpleChannel.java:87)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.network.ServerNetworking.sendToServer(ServerNetworking.java:36)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.network.packet.common.CounterAttackSP.send(CounterAttackSP.java:51)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.lambda$onAttackEntity$8(RegistryCommonEvents.java:315)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:137)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onAttackEntity(RegistryCommonEvents.java:315)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onAttackEntity_LivingHurtEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingHurt(ForgeHooks.java:292)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_6475_(Player.java:906)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1112)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_6469_(Player.java:840)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_6469_(ServerPlayer.java:695)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.Mob.m_7327_(Mob.java:1410)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.monster.Zombie.m_7327_(Zombie.java:315)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.ai.goal.MeleeAttackGoal.m_6739_(MeleeAttackGoal.java:147)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.ai.goal.MeleeAttackGoal.m_8037_(MeleeAttackGoal.java:138)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.ai.goal.ZombieAttackGoal.m_8037_(ZombieAttackGoal.java:28)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.ai.goal.WrappedGoal.m_8037_(WrappedGoal.java:65)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.ai.goal.GoalSelector.m_186081_(GoalSelector.java:120)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.Mob.m_6140_(Mob.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2548)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.Mob.m_8107_(Mob.java:536)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.monster.Monster.m_8107_(Monster.java:42)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.monster.Zombie.m_8107_(Zombie.java:236)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2298)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.Mob.m_8119_(Mob.java:337)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.monster.Zombie.m_8119_(Zombie.java:210)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.Level.m_46653_(Level.java:479)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 23:25:23.232] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+net.minecraft.ReportedException: Ticking entity
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:897) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.network.simple.SimpleChannel.sendToServer(SimpleChannel.java:87) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.network.ServerNetworking.sendToServer(ServerNetworking.java:36) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.network.packet.common.CounterAttackSP.send(CounterAttackSP.java:51) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.lambda$onAttackEntity$8(RegistryCommonEvents.java:315) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.ifPresent(LazyOptional.java:137) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onAttackEntity(RegistryCommonEvents.java:315) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onAttackEntity_LivingHurtEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingHurt(ForgeHooks.java:292) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_6475_(Player.java:906) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1112) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.player.Player.m_6469_(Player.java:840) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_6469_(ServerPlayer.java:695) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.Mob.m_7327_(Mob.java:1410) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.monster.Zombie.m_7327_(Zombie.java:315) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.ai.goal.MeleeAttackGoal.m_6739_(MeleeAttackGoal.java:147) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.ai.goal.MeleeAttackGoal.m_8037_(MeleeAttackGoal.java:138) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.ai.goal.ZombieAttackGoal.m_8037_(ZombieAttackGoal.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.ai.goal.WrappedGoal.m_8037_(WrappedGoal.java:65) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.ai.goal.GoalSelector.m_186081_(GoalSelector.java:120) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.Mob.m_6140_(Mob.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8107_(LivingEntity.java:2548) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.Mob.m_8107_(Mob.java:536) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.monster.Monster.m_8107_(Monster.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.monster.Zombie.m_8107_(Zombie.java:236) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2298) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.Mob.m_8119_(Mob.java:337) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.entity.monster.Zombie.m_8119_(Zombie.java:210) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8647_(ServerLevel.java:693) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.level.Level.m_46653_(Level.java:479) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerLevel.m_184063_(ServerLevel.java:343) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.world.level.entity.EntityTickList.m_156910_(EntityTickList.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:323) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:893) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	... 5 more
+[31May2025 23:25:23.267] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID f3b09488-9db2-43e0-b36c-c9ddf2c54646
+[31May2025 23:25:23.267] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/SERVER-SAGA/servidor_minecraft/./crash-reports/crash-2025-05-31_23.25.23-server.txt
+[31May2025 23:25:23.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[31May2025 23:25:23.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[31May2025 23:25:23.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Server closed
+[31May2025 23:25:23.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[31May2025 23:25:23.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[31May2025 23:25:23.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[31May2025 23:25:23.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[31May2025 23:25:23.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[31May2025 23:25:23.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[31May2025 23:25:23.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[31May2025 23:25:23.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[31May2025 23:25:23.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -322,3 +322,21 @@
 [31May2025 20:49:00.055] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [31May2025 20:50:31.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XDDDDDDDDDDDDDDDD
 [31May2025 20:50:46.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=128, y=56, z=-399} BlockPos{x=128, y=55, z=-399}
+[31May2025 20:57:30.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
+[31May2025 20:57:31.499] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 20:57:31.499] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 20:57:35.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara fell from a high place
+[31May2025 20:57:36.936] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 20:57:36.937] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 20:57:55.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover was kicked for floating too long!
+[31May2025 20:57:55.499] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Flying is not enabled on this server
+[31May2025 20:57:55.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[31May2025 20:58:06.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.66.89.196:46045] logged in with entity id 50596 at (26.104439649492228, 67.23527968815391, -13.053775058715756)
+[31May2025 20:58:06.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[31May2025 21:00:38.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara moved too quickly! -1.0111086925941208,-10.626407844654551,0.16613453152791635
+[31May2025 21:01:21.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: The difficulty has been set to Hard]
+[31May2025 21:01:32.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Ant-Agonizer]
+[31May2025 21:01:45.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=131, y=53, z=-420} BlockPos{x=131, y=52, z=-420}
+[31May2025 21:02:08.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Leafcutter Ant
+[31May2025 21:02:10.058] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:02:10.059] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty

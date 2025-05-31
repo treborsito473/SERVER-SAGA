@@ -1937,3 +1937,9 @@ java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capab
 [31May2025 22:11:30.390] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/95657, l='ServerLevel[world]', x=96.50, y=50.00, z=-360.50]
 [31May2025 22:11:49.890] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/95862, l='ServerLevel[world]', x=104.50, y=52.00, z=-357.50]
 [31May2025 22:12:22.590] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/96025, l='ServerLevel[world]', x=102.50, y=52.00, z=-361.50]
+[31May2025 22:18:04.840] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/97805, l='ServerLevel[world]', x=104.50, y=52.00, z=-356.50]
+[31May2025 22:21:19.956] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Timed out
+[31May2025 22:21:19.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[31May2025 22:23:28.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:39929] logged in with entity id 99301 at (126.30799887353986, 123.0, -395.4930099392691)
+[31May2025 22:23:28.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[31May2025 22:25:48.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]

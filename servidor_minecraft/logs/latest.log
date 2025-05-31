@@ -1,17 +1,17 @@
-[31May2025 01:05:47.251] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[31May2025 01:05:47.255] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[31May2025 01:05:48.224] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[31May2025 01:05:48.290] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER-SAGA/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[31May2025 01:05:48.614] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-SAGA/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[31May2025 01:05:48.616] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-SAGA/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[31May2025 01:05:48.620] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-SAGA/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[31May2025 01:05:48.622] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-SAGA/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[31May2025 01:05:48.827] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[31May2025 01:05:51.204] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[31May2025 01:05:51.320] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[31May2025 01:05:51.322] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[31May2025 01:05:51.341] [main/WARN] [mixin/]: Reference map 'mixins.spartan_materials.refmap.json' for mixins.spartan_materials.json could not be read. If this is a development environment you can ignore this message
-[31May2025 01:05:51.461] [main/INFO] [Puzzles Lib/]: Loading 45 mods:
+[31May2025 15:22:04.093] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[31May2025 15:22:04.097] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[31May2025 15:22:08.901] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[31May2025 15:22:09.025] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER-SAGA/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[31May2025 15:22:09.549] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-SAGA/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[31May2025 15:22:09.552] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-SAGA/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[31May2025 15:22:09.553] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-SAGA/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[31May2025 15:22:09.554] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-SAGA/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[31May2025 15:22:09.925] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[31May2025 15:22:12.950] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[31May2025 15:22:13.112] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[31May2025 15:22:13.114] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[31May2025 15:22:13.206] [main/WARN] [mixin/]: Reference map 'mixins.spartan_materials.refmap.json' for mixins.spartan_materials.json could not be read. If this is a development environment you can ignore this message
+[31May2025 15:22:13.366] [main/INFO] [Puzzles Lib/]: Loading 45 mods:
 	- alexscaves 2.0.2
 	- alexsmobs 1.22.9
 	- architectury 9.2.14
@@ -57,869 +57,169 @@
 	- xaerominimap 25.2.0
 	- xaeroworldmap 1.39.4
 	- xpfromharvest 1.2.4
-[31May2025 01:05:51.468] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[31May2025 01:05:51.621] [main/WARN] [mixin/]: Error loading class: net/bettercombat/client/collision/TargetFinder (java.lang.ClassNotFoundException: net.bettercombat.client.collision.TargetFinder)
-[31May2025 01:05:51.621] [main/WARN] [mixin/]: @Mixin target net.bettercombat.client.collision.TargetFinder was not found justleveling.mixins.json:MixTargetFinder
-[31May2025 01:05:52.782] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[31May2025 01:05:52.783] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[31May2025 01:05:52.783] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[31May2025 01:05:52.785] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[31May2025 01:05:52.785] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[31May2025 01:05:52.786] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[31May2025 01:05:52.787] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[31May2025 01:05:52.788] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[31May2025 01:05:53.109] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[31May2025 01:05:58.146] [main/WARN] [mixin/]: @Final field f_26027_:Lnet/minecraft/world/entity/ai/targeting/TargetingConditions; in guardvillagers.mixins.json:DefendVillageGoalGolemMixin should be final
-[31May2025 01:05:59.145] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[31May2025 15:22:13.376] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[31May2025 15:22:13.563] [main/WARN] [mixin/]: Error loading class: net/bettercombat/client/collision/TargetFinder (java.lang.ClassNotFoundException: net.bettercombat.client.collision.TargetFinder)
+[31May2025 15:22:13.565] [main/WARN] [mixin/]: @Mixin target net.bettercombat.client.collision.TargetFinder was not found justleveling.mixins.json:MixTargetFinder
+[31May2025 15:22:15.207] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[31May2025 15:22:15.208] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[31May2025 15:22:15.208] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[31May2025 15:22:15.210] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[31May2025 15:22:15.210] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[31May2025 15:22:15.211] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[31May2025 15:22:15.213] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[31May2025 15:22:15.214] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[31May2025 15:22:15.682] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[31May2025 15:22:23.037] [main/WARN] [mixin/]: @Final field f_26027_:Lnet/minecraft/world/entity/ai/targeting/TargetingConditions; in guardvillagers.mixins.json:DefendVillageGoalGolemMixin should be final
+[31May2025 15:22:24.235] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[31May2025 01:05:59.909] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
-[31May2025 01:06:00.027] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[31May2025 01:06:00.040] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[31May2025 01:06:00.048] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[31May2025 01:06:00.293] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/SERVER-SAGA/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
-[31May2025 01:06:00.365] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[31May2025 01:06:00.365] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[31May2025 01:06:00.366] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[31May2025 01:06:00.508] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[31May2025 01:06:00.667] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[31May2025 01:06:00.895] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[31May2025 01:06:00.903] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[31May2025 01:06:00.959] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
-[31May2025 01:06:00.962] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
-[31May2025 01:06:03.448] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[31May2025 01:06:03.461] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[31May2025 01:06:03.461] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[31May2025 01:06:03.463] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[31May2025 01:06:03.623] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[31May2025 01:06:03.736] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[31May2025 01:06:03.760] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/SERVER-SAGA/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
-[31May2025 01:06:03.764] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/SERVER-SAGA/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
-[31May2025 01:06:03.862] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[31May2025 01:06:03.931] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[31May2025 01:06:03.943] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
-[31May2025 01:06:04.157] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
-[31May2025 01:06:04.395] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
-[31May2025 01:06:04.396] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
-[31May2025 01:06:04.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[31May2025 01:06:04.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
-[31May2025 01:06:04.417] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: AHEAD Current: 5.4.1 Target: null
-[31May2025 01:06:04.418] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
-[31May2025 01:06:04.431] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: BETA Current: 1.20.1-1.6.10 Target: 1.20-1.6.5
-[31May2025 01:06:04.431] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[31May2025 01:06:04.443] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[31May2025 01:06:04.444] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[31May2025 01:06:04.444] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
-[31May2025 01:06:04.445] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[31May2025 01:06:04.445] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[31May2025 01:06:04.445] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[31May2025 01:06:04.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[31May2025 01:06:04.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
-[31May2025 01:06:04.480] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
-[31May2025 01:06:04.480] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[31May2025 01:06:04.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[31May2025 01:06:04.606] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[31May2025 01:06:04.992] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[31May2025 01:06:06.595] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[31May2025 01:06:07.994] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-SAGA/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
-[31May2025 01:06:07.994] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-SAGA/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
-[31May2025 01:06:08.526] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[31May2025 01:06:09.550] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[31May2025 01:06:09.594] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[31May2025 01:06:10.374] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[31May2025 01:06:10.385] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[31May2025 01:06:10.451] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[31May2025 01:06:10.617] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[31May2025 01:06:10.617] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[31May2025 01:06:10.643] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[31May2025 01:06:10.643] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
-[31May2025 01:06:10.660] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[31May2025 01:06:10.660] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[31May2025 01:06:10.682] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[31May2025 01:06:10.682] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
-[31May2025 01:06:10.695] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[31May2025 01:06:10.695] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[31May2025 01:06:10.702] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[31May2025 01:06:10.703] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[31May2025 01:06:10.721] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[31May2025 01:06:10.722] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[31May2025 01:06:10.722] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[31May2025 01:06:10.722] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[31May2025 01:06:10.742] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[31May2025 01:06:10.742] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
-[31May2025 01:06:10.777] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[31May2025 01:06:10.777] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
-[31May2025 01:06:10.780] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[31May2025 01:06:10.780] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[31May2025 01:06:10.805] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[31May2025 01:06:10.806] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
-[31May2025 01:06:10.817] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
-[31May2025 01:06:10.818] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
-[31May2025 01:06:10.821] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[31May2025 01:06:10.821] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
-[31May2025 01:06:10.850] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[31May2025 01:06:10.850] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[31May2025 01:06:10.853] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[31May2025 01:06:10.853] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[31May2025 01:06:10.860] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
-[31May2025 01:06:10.861] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
-[31May2025 01:06:10.870] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[31May2025 01:06:10.871] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[31May2025 01:06:10.878] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
-[31May2025 01:06:10.908] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[31May2025 01:06:10.924] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[31May2025 01:06:10.974] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[31May2025 01:06:10.986] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[31May2025 01:06:11.029] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2813 advancements
-[31May2025 01:06:11.034] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+[31May2025 15:22:25.497] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for illagerinvasion:main
+[31May2025 15:22:25.618] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[31May2025 15:22:25.656] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[31May2025 15:22:25.662] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[31May2025 15:22:26.085] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/SERVER-SAGA/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
+[31May2025 15:22:26.191] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[31May2025 15:22:26.199] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[31May2025 15:22:26.214] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[31May2025 15:22:26.439] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[31May2025 15:22:26.571] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[31May2025 15:22:26.925] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[31May2025 15:22:26.925] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[31May2025 15:22:26.960] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_long_reach_attack
+[31May2025 15:22:26.962] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id magistuarmory:packet_lance_collision
+[31May2025 15:22:30.321] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[31May2025 15:22:30.336] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[31May2025 15:22:30.337] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[31May2025 15:22:30.339] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[31May2025 15:22:30.532] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[31May2025 15:22:30.632] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[31May2025 15:22:30.634] [Thread-1/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[31May2025 15:22:30.636] [Thread-1/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[31May2025 15:22:30.655] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/SERVER-SAGA/servidor_minecraft/config/guardvillagers-common.toml is not correct. Correcting
+[31May2025 15:22:30.957] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[31May2025 15:22:31.037] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[31May2025 15:22:31.076] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[31May2025 15:22:31.457] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[31May2025 15:22:31.717] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[31May2025 15:22:31.718] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/illagerinvasion.json
+[31May2025 15:22:31.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [illagerinvasion] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[31May2025 15:22:31.733] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Starting version check at https://raw.githubusercontent.com/Ametrin-Studios/DungeonsEnhanced/refs/heads/master/update.json
+[31May2025 15:22:31.745] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dungeons_enhanced] Found status: AHEAD Current: 5.4.1 Target: null
+[31May2025 15:22:31.746] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Starting version check at https://raw.githubusercontent.com/seymourimadeit/guardvillagers/master/update.json
+[31May2025 15:22:31.758] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [guardvillagers] Found status: BETA Current: 1.20.1-1.6.10 Target: 1.20-1.6.5
+[31May2025 15:22:31.758] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[31May2025 15:22:31.772] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[31May2025 15:22:31.772] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[31May2025 15:22:31.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[31May2025 15:22:31.783] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Starting version check at https://raw.githubusercontent.com/SilentChaos512/ScalingHealth/1.18/update.json
+[31May2025 15:22:31.784] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[31May2025 15:22:31.784] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[31May2025 15:22:31.786] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[31May2025 15:22:31.787] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[31May2025 15:22:31.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [scalinghealth] Found status: BETA Current: 8.0.2+9 Target: null
+[31May2025 15:22:31.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[31May2025 15:22:31.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[31May2025 15:22:31.968] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[31May2025 15:22:32.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[31May2025 15:22:34.865] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[31May2025 15:22:36.518] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-SAGA/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/assets/.mcassetsroot' uses unexpected schema
+[31May2025 15:22:36.519] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-SAGA/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23185!/data/.mcassetsroot' uses unexpected schema
+[31May2025 15:22:37.073] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[31May2025 15:22:38.367] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[31May2025 15:22:38.423] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[31May2025 15:22:39.417] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[31May2025 15:22:39.431] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[31May2025 15:22:39.527] [Worker-Main-3/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[31May2025 15:22:39.765] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[31May2025 15:22:39.765] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[31May2025 15:22:39.784] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[31May2025 15:22:39.784] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[31May2025 15:22:39.801] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[31May2025 15:22:39.802] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[31May2025 15:22:39.831] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[31May2025 15:22:39.832] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[31May2025 15:22:39.854] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[31May2025 15:22:39.854] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[31May2025 15:22:39.864] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[31May2025 15:22:39.865] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[31May2025 15:22:39.893] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[31May2025 15:22:39.893] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[31May2025 15:22:39.894] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[31May2025 15:22:39.894] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[31May2025 15:22:39.933] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[31May2025 15:22:39.934] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[31May2025 15:22:39.971] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[31May2025 15:22:39.971] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[31May2025 15:22:39.973] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[31May2025 15:22:39.973] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[31May2025 15:22:39.990] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[31May2025 15:22:39.991] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[31May2025 15:22:39.998] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[31May2025 15:22:39.998] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[31May2025 15:22:40.001] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[31May2025 15:22:40.001] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[31May2025 15:22:40.041] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[31May2025 15:22:40.041] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[31May2025 15:22:40.048] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[31May2025 15:22:40.050] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[31May2025 15:22:40.061] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[31May2025 15:22:40.062] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[31May2025 15:22:40.073] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[31May2025 15:22:40.073] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[31May2025 15:22:40.081] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 11 recipes
+[31May2025 15:22:40.120] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[31May2025 15:22:40.145] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[31May2025 15:22:40.210] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[31May2025 15:22:40.223] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[31May2025 15:22:40.281] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2813 advancements
+[31May2025 15:22:40.288] [main/ERROR] [bettervillage/]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-forge
-[31May2025 01:06:11.924] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.061723ms
-[31May2025 01:06:11.929] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
-[31May2025 01:06:12.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[31May2025 01:06:12.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[31May2025 01:06:12.018] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[31May2025 01:06:12.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[31May2025 01:06:12.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[31May2025 01:06:12.130] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[31May2025 01:06:12.213] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[31May2025 01:06:12.213] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[31May2025 01:06:12.213] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[31May2025 01:06:12.214] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[31May2025 01:06:12.232] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
-[31May2025 01:06:12.241] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
-[31May2025 01:06:12.242] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
-[31May2025 01:06:12.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[31May2025 01:06:16.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[31May2025 01:06:22.159] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31May2025 01:06:22.185] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31May2025 01:06:22.205] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31May2025 01:06:22.217] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31May2025 01:06:22.231] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31May2025 01:06:22.241] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31May2025 01:06:22.266] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31May2025 01:06:22.281] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31May2025 01:06:22.290] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31May2025 01:06:22.302] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31May2025 01:06:22.318] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31May2025 01:06:22.337] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31May2025 01:06:22.377] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[31May2025 01:06:22.858] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
-[31May2025 01:06:23.358] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 55%
-[31May2025 01:06:23.689] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7332 ms
-[31May2025 01:06:23.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.463s)! For help, type "help"
-[31May2025 01:06:23.733] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[31May2025 01:06:23.770] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[31May2025 01:06:23.771] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[31May2025 01:08:13.824] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:50263] logged in with entity id 134 at (-452.5895273902017, 66.48121948963345, -368.23148431872215)
-[31May2025 01:08:13.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[31May2025 01:08:16.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2335ms or 46 ticks behind
-[31May2025 01:08:37.583] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/267, l='ServerLevel[world]', x=-477.41, y=62.60, z=-325.29] died, message: 'Librarian was shot by Pillager'
-[31May2025 01:09:05.334] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/265, l='ServerLevel[world]', x=-490.49, y=63.55, z=-318.70] died, message: 'Leatherworker was shot by Pillager'
-[31May2025 01:10:46.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[31May2025 01:12:28.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was shot by Skeleton
-[31May2025 01:12:30.419] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:12:30.420] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[31May2025 01:12:31.172] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1307, l='ServerLevel[world]', x=-457.61, y=63.00, z=-316.73] died, message: 'Villager was killed by Witch using magic'
-[31May2025 01:13:07.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asrielmanrique[/127.137.139.102:55435] logged in with entity id 1700 at (-55.64486238512676, 42.0, 44.54014316463123)
-[31May2025 01:13:07.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique joined the game
-[31May2025 01:13:34.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> server mas lagg
-[31May2025 01:13:39.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
-[31May2025 01:13:43.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> me va fluido a mi
-[31May2025 01:13:58.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> y si te bajaz un poquito los shaders?
-[31May2025 01:14:01.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> 30 fps no es fluido byron
-[31May2025 01:14:14.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> o cierras la exajeracion de aplicaciones que tienes abertos?
-[31May2025 01:14:23.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tengo 60 bro
-[31May2025 01:14:38.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> es un ejemplo
-[31May2025 01:14:50.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Drowned
-[31May2025 01:14:51.789] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:14:51.789] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[31May2025 01:14:54.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> xdddddddd
-[31May2025 01:15:12.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Eye of The Storm]
-[31May2025 01:15:29.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique has made the advancement [Sweet Dreams]
-[31May2025 01:15:33.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> zzz
-[31May2025 01:15:37.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> zzzzzzzzzzzzzz
-[31May2025 01:15:39.838] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/2234, l='ServerLevel[world]', x=-394.50, y=63.00, z=-364.50] died, message: 'Farmer was slain by C0LIGAMES'
-[31May2025 01:15:51.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XDDDDDDDDDDDDDDDDDDDD
-[31May2025 01:15:54.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pobre aldeano
-[31May2025 01:15:56.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> xd
-[31May2025 01:15:57.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> se metio y lo mate
-[31May2025 01:16:23.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/2283, l='ServerLevel[world]', x=-450.30, y=63.20, z=-262.70] died, message: 'Librarian was shot by Pillager'
-[31May2025 01:17:25.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was shot by Skeleton
-[31May2025 01:17:26.697] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:17:26.697] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[31May2025 01:17:45.937] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/2387, l='ServerLevel[world]', x=-479.08, y=65.00, z=-305.47] died, message: 'Leatherworker was shot by Pillager'
-[31May2025 01:18:06.539] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2337, l='ServerLevel[world]', x=-486.63, y=62.51, z=-339.22] died, message: 'Villager was shot by Pillager'
-[31May2025 01:18:06.944] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2327, l='ServerLevel[world]', x=-448.15, y=63.00, z=-327.43] died, message: 'Villager was shot by Pillager'
-[31May2025 01:18:24.588] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[31May2025 01:18:56.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> con que boton entro al menu de habilidades?
-[31May2025 01:19:06.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ve a controles
-[31May2025 01:19:10.588] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2348, l='ServerLevel[world]', x=-509.01, y=62.52, z=-375.03] died, message: 'Villager was shot by Pillager'
-[31May2025 01:19:19.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ahi busca el apartado de just leveling
-[31May2025 01:19:25.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> porque yo lo habro con Ñ
-[31May2025 01:19:26.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was shot by Pillager
-[31May2025 01:19:27.968] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:19:27.969] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[31May2025 01:20:24.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> voy a matar a ese dragon
-[31May2025 01:20:40.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/4569, l='ServerLevel[world]', x=-432.16, y=65.00, z=-254.84] died, message: 'Librarian was shot by Pillager'
-[31May2025 01:21:28.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Gamerule keepInventory is now set to: true]
-[31May2025 01:23:11.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ire por ese dragon XD
-[31May2025 01:27:24.834] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
-[31May2025 01:27:24.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[31May2025 01:30:06.295] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:34971] logged in with entity id 7500 at (-292.5, 19.0, -549.5)
-[31May2025 01:30:06.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[31May2025 01:30:35.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
-[31May2025 01:31:41.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> a la mrd
-[31May2025 01:32:08.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique has made the advancement [Suit Up]
-[31May2025 01:32:40.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique has made the advancement [Isn't It Iron Pick]
-[31May2025 01:34:44.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[31May2025 01:34:50.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
-[31May2025 01:34:51.633] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:34:51.634] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 01:34:59.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
-[31May2025 01:35:00.782] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:35:00.783] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[31May2025 01:35:11.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was energized by Lightning Dragon
-[31May2025 01:35:12.682] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{C0LIGAMES} does not have Capabilities!
-	Index: 1
-	Listeners:
-		0: HIGHEST
-		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@5c6d0f24 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		2: HIGH
-		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		4: NORMAL
-		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@4c925433 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@4ee81455 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@48d64529 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@7132cb0f onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@691505cf onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@691505cf onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-java.lang.IllegalArgumentException: Player literal{C0LIGAMES} does not have Capabilities!
-	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
-	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
-	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
-	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
-	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
-	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
-	at java.base/java.lang.Thread.run(Thread.java:840)
-
-[31May2025 01:35:12.685] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@f4b6ea8, suppressing error
-java.lang.IllegalArgumentException: Player literal{C0LIGAMES} does not have Capabilities!
-	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
-	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
-	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
-	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
-	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
-	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[31May2025 01:35:12.943] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:35:12.943] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[31May2025 01:35:18.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was energized by Lightning Dragon
-[31May2025 01:35:19.883] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{C0LIGAMES} does not have Capabilities!
-	Index: 1
-	Listeners:
-		0: HIGHEST
-		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@5c6d0f24 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		2: HIGH
-		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		4: NORMAL
-		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@4c925433 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@4ee81455 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@48d64529 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@7132cb0f onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@691505cf onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@691505cf onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-java.lang.IllegalArgumentException: Player literal{C0LIGAMES} does not have Capabilities!
-	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
-	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
-	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
-	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
-	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
-	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
-	at java.base/java.lang.Thread.run(Thread.java:840)
-
-[31May2025 01:35:19.886] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@39cf7808, suppressing error
-java.lang.IllegalArgumentException: Player literal{C0LIGAMES} does not have Capabilities!
-	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
-	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
-	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
-	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
-	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
-	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[31May2025 01:35:20.279] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:35:20.280] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 01:35:28.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
-[31May2025 01:35:30.288] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:35:30.289] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[31May2025 01:35:39.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
-[31May2025 01:35:40.810] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:35:40.810] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 01:35:44.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was energized by Lightning Dragon
-[31May2025 01:35:46.695] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:35:46.696] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[31May2025 01:35:50.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was energized by Lightning Dragon
-[31May2025 01:35:51.658] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:35:51.658] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 01:35:54.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
-[31May2025 01:35:56.106] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:35:56.107] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 01:36:03.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
-[31May2025 01:36:05.680] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:36:05.681] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 01:36:09.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
-[31May2025 01:36:11.331] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:36:11.331] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 01:36:20.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -293.500000, -14.500000, -563.500000]
-[31May2025 01:36:23.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was struck with lightning by Lightning Dragon
-[31May2025 01:36:24.961] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:36:24.962] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 01:36:29.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
-[31May2025 01:36:33.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -294.500000, -17.500000, -564.500000]
-[31May2025 01:37:59.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Spider
-[31May2025 01:38:01.422] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:38:01.422] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[31May2025 01:38:04.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[31May2025 01:38:05.092] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:05.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:05.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:06.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:06.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:06.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:07.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:07.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:07.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:07.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:08.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:08.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:08.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:09.190] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:09.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:09.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:10.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:10.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:10.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:11.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:11.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:11.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
-[31May2025 01:38:11.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved wrongly!
-[31May2025 01:38:12.732] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{C0LIGAMES} does not have Capabilities!
-	Index: 1
-	Listeners:
-		0: HIGHEST
-		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@5c6d0f24 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		2: HIGH
-		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		4: NORMAL
-		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@4c925433 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@4ee81455 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@48d64529 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@7132cb0f onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@691505cf onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@691505cf onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-java.lang.IllegalArgumentException: Player literal{C0LIGAMES} does not have Capabilities!
-	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
-	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
-	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
-	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
-	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
-	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
-	at java.base/java.lang.Thread.run(Thread.java:840)
-
-[31May2025 01:38:12.733] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@61a39162, suppressing error
-java.lang.IllegalArgumentException: Player literal{C0LIGAMES} does not have Capabilities!
-	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
-	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
-	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
-	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
-	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
-	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[31May2025 01:38:13.371] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:38:13.371] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 01:38:16.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was struck with lightning by Lightning Dragon
-[31May2025 01:38:18.383] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:38:18.383] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 01:38:26.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was struck with lightning by Lightning Dragon
-[31May2025 01:38:27.778] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{C0LIGAMES} does not have Capabilities!
-	Index: 1
-	Listeners:
-		0: HIGHEST
-		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@5c6d0f24 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		2: HIGH
-		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		4: NORMAL
-		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@4c925433 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@4ee81455 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@48d64529 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@7132cb0f onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@691505cf onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@691505cf onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
-java.lang.IllegalArgumentException: Player literal{C0LIGAMES} does not have Capabilities!
-	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
-	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
-	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
-	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
-	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
-	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
-	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
-	at java.base/java.lang.Thread.run(Thread.java:840)
-
-[31May2025 01:38:27.780] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@7539c4d4, suppressing error
-java.lang.IllegalArgumentException: Player literal{C0LIGAMES} does not have Capabilities!
-	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
-	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
-	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
-	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
-	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
-	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
-	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[31May2025 01:38:27.837] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:38:27.837] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 01:38:31.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was energized by Lightning Dragon
-[31May2025 01:38:33.044] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:38:33.044] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 01:38:40.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
-[31May2025 01:38:41.666] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:38:41.667] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[31May2025 01:38:46.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Lightning Dragon
-[31May2025 01:38:47.720] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:38:47.721] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[31May2025 01:38:56.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
-[31May2025 01:39:02.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to -297.500000, -10.500000, -549.500000]
-[31May2025 01:40:33.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tio no muere
-[31May2025 01:40:37.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> encontre una manera
-[31May2025 01:40:40.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> ?
-[31May2025 01:40:42.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> pero quiza rompa los bloques XD
-[31May2025 01:40:45.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> el dragon
-[31May2025 01:40:45.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> XD
-[31May2025 01:42:58.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Zombie
-[31May2025 01:42:59.886] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:42:59.887] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[31May2025 01:46:19.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Dragonslayer]
-[31May2025 01:46:23.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> GGGGGGG
-[31May2025 01:46:24.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> ALFIN
-[31May2025 01:46:29.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[31May2025 01:46:34.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> toda mi armor
-[31May2025 01:46:38.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no tengo hacha
-[31May2025 01:46:47.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Mother of Dragons]
-[31May2025 01:46:50.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> WEBON
-[31May2025 01:46:53.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ERA HEMBRA
-[31May2025 01:47:00.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique tried to swim in lava
-[31May2025 01:47:02.995] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:47:02.995] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[31May2025 01:47:04.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> xd
-[31May2025 01:47:05.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
-[31May2025 01:47:09.294] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1798bcad[id=<null>,name=joaocover,properties={},legacy=false] (/127.66.89.196:41317) lost connection: Disconnected
-[31May2025 01:47:23.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.66.89.196:53927] logged in with entity id 19343 at (-210.68522704041752, 99.0, -163.04639433203602)
-[31May2025 01:47:23.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
-[31May2025 01:47:29.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> ñoau
-[31May2025 01:47:55.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> JOAO
-[31May2025 01:47:57.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> LO LOGRE
-[31May2025 01:48:00.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> MATE AL DRAGON
-[31May2025 01:48:05.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> EL CHAT LLENO DE MUERTES XD
-[31May2025 01:48:07.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ojito
-[31May2025 01:48:11.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[31May2025 01:48:19.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> habla por discord
-[31May2025 01:49:05.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Sweet Dreams]
-[31May2025 01:49:18.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> CARAJO
-[31May2025 01:49:21.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZOMBI DE MRD
-[31May2025 01:49:24.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
-[31May2025 01:50:18.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> UNA CUCACARCHA
-[31May2025 01:50:21.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> encontre zonas que al colocar antorchas se me quitan en fast
-[31May2025 01:50:30.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> o no
-[31May2025 01:50:34.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> y bloques tambien
-[31May2025 01:51:59.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Zombie
-[31May2025 01:52:01.053] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:52:01.053] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 01:52:09.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> xd despues de matar un dragon
-[31May2025 01:52:14.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> mataste un dragon pero no un zombi?
-[31May2025 01:52:24.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ESTOY CON TODO ROJO
-[31May2025 01:52:29.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> QUE CHUCHA QUIERS QUE HAGA
-[31May2025 01:52:32.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
-[31May2025 01:52:34.456] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:52:34.456] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[31May2025 01:52:37.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ADEMAS DE TENER LOS BRAZOS DESTRUIDOS
-[31May2025 01:52:41.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> Y LAS PIERNAS TAMBIEN
-[31May2025 01:52:54.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
-[31May2025 01:52:54.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
-[31May2025 01:52:59.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> matar dragones sale rentable
-[31May2025 01:53:03.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> dan 25 de exp
-[31May2025 01:54:37.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was shot by Skeleton
-[31May2025 01:54:38.734] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:54:38.734] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 01:54:39.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[31May2025 01:54:43.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.66.89.196:48785] logged in with entity id 23090 at (-221.00001423964068, 81.0, -173.52818754649886)
-[31May2025 01:54:43.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
-[31May2025 01:56:11.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> mejor me muero
-[31May2025 01:56:11.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Zombie
-[31May2025 01:56:13.192] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:56:13.192] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 01:56:21.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> CHICOZZZZZZZZZZZ
-[31May2025 01:56:27.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> a raidear el mosquito
-[31May2025 01:56:33.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NOOOOO
-[31May2025 01:58:00.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique tried to swim in lava
-[31May2025 01:58:01.808] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 01:58:01.809] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 01:58:37.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
-[31May2025 01:58:37.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
-[31May2025 02:00:54.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 0.0,-10.66723315363322,0.0
-[31May2025 02:00:54.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES withered away whilst fighting Wither Skeleton
-[31May2025 02:00:56.590] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 02:00:56.590] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 02:00:58.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Zombie
-[31May2025 02:01:00.470] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 02:01:00.470] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[31May2025 02:01:18.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Ice Bucket Challenge]
-[31May2025 02:01:43.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> jojajo
-[31May2025 02:01:48.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> QUE BUEN BARCOS
-[31May2025 02:02:33.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Diamonds!]
-[31May2025 02:03:12.830] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ef3dd72[id=<null>,name=joaocover,properties={},legacy=false] (/127.66.89.196:48329) lost connection: Disconnected
-[31May2025 02:03:19.637] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.66.89.196:43603] logged in with entity id 25440 at (-197.30000001192093, 91.0, -141.63710499892653)
-[31May2025 02:03:19.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
-[31May2025 02:03:21.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was shot by Wither Skeleton
-[31May2025 02:03:22.947] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 02:03:22.948] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 02:03:38.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> enserio?
-[31May2025 02:03:40.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was shot by Wither Skeleton
-[31May2025 02:03:41.505] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 02:03:41.505] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 02:03:45.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Acquire Hardware]
-[31May2025 02:03:54.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES tried to swim in lava
-[31May2025 02:03:56.002] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 02:03:56.003] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 02:04:00.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> xd
-[31May2025 02:04:11.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> te estan violando
-[31May2025 02:04:19.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Isn't It Iron Pick]
-[31May2025 02:04:25.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> uwu
-[31May2025 02:04:39.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> lo lograste?
-[31May2025 02:06:38.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> COMO PICO EL COBRE?
-[31May2025 02:06:44.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XDDDDDDDDDD
-[31May2025 02:06:48.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> picando
-[31May2025 02:06:52.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CON'
-[31May2025 02:06:55.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Zombie
-[31May2025 02:06:55.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ?
-[31May2025 02:06:57.119] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 02:06:57.120] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 02:06:57.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> TU BARCO ESTA BUENO JOAU UWU
-[31May2025 02:07:09.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> HIJO DE TU MADRE
-[31May2025 02:07:25.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ENCONTRE PLATA :)
-[31May2025 02:07:28.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[31May2025 02:07:33.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Wither Skeleton
-[31May2025 02:07:35.106] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 02:07:35.106] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[31May2025 02:08:30.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> JODER
-[31May2025 02:08:34.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> UN TOTEM BOLUDO
-[31May2025 02:08:36.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> UN TOTWM
-[31May2025 02:08:38.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> oooo
-[31May2025 02:08:45.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> EN TU BARCO
-[31May2025 02:08:48.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> UWU
-[31May2025 02:08:51.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Zombie
-[31May2025 02:08:53.388] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 02:08:53.388] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[31May2025 02:08:55.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[31May2025 02:09:04.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Cover Me with Diamonds]
-[31May2025 02:09:05.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> nombre si tew lo robas
-[31May2025 02:09:31.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> para que sirve el cristal de vida?
-[31May2025 02:09:33.038] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{joaocover})
-[31May2025 02:11:20.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> vayan debajo del barco
-[31May2025 02:11:29.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> VOY
-[31May2025 02:11:30.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> hare una levitacion salvada
-[31May2025 02:12:00.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 2.898197637967229,-5.024424088213692,8.259340504623793
-[31May2025 02:12:16.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> tenes toten?
-[31May2025 02:12:20.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> si XD
-[31May2025 02:12:37.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> YA ESTOY
-[31May2025 02:12:39.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya?
-[31May2025 02:12:45.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Spider
-[31May2025 02:12:47.735] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 02:12:47.736] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[31May2025 02:12:47.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> estan lejos aun
-[31May2025 02:12:50.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> los veo XD
-[31May2025 02:13:09.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ven pe
-[31May2025 02:13:20.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> zzz
-[31May2025 02:13:20.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> gus ven pe
-[31May2025 02:13:41.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya estabas bien
-[31May2025 02:13:43.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ven joao
-[31May2025 02:13:50.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> HAY 15 CREEPER
-[31May2025 02:13:53.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[31May2025 02:13:54.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> mira
-[31May2025 02:13:56.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> observa
-[31May2025 02:13:59.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> soy tryhard
-[31May2025 02:14:05.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES fell from a high place
-[31May2025 02:14:07.192] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 02:14:07.192] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[31May2025 02:14:10.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XDDDDDDDDDDDDDDD
-[31May2025 02:14:18.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no se puede usar la pocion
-[31May2025 02:14:22.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES was kicked for floating too long!
-[31May2025 02:14:22.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
-[31May2025 02:14:22.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[31May2025 02:14:22.979] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[31May2025 02:14:36.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> bno ya me llaman bye
-[31May2025 02:14:42.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:40771] logged in with entity id 28740 at (2.331595859095845, 78.23527968815392, 52.86816482573039)
-[31May2025 02:14:42.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[31May2025 02:14:43.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asrielmanrique lost connection: Disconnected
-[31May2025 02:14:43.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique left the game
-[31May2025 02:14:43.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok
-[31May2025 02:14:53.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES fell from a high place
-[31May2025 02:14:56.585] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 02:14:56.585] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[31May2025 02:15:02.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> que paso con gus?
-[31May2025 02:15:06.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> oe te quitaron la espada
-[31May2025 02:15:13.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SE NOS FUE
-[31May2025 02:15:44.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> LASM INAS DE XP ESTAN ROTAS
-[31May2025 02:15:59.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ON CHUCHA ESTAS?
-[31May2025 02:16:09.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CONTRA HORMIGAS
-[31May2025 02:16:15.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[31May2025 02:16:28.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Leafcutter Ant
-[31May2025 02:16:29.585] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 02:16:29.585] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[31May2025 02:16:41.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
-[31May2025 02:17:21.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Ant Farm]
-[31May2025 02:17:40.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> xsd
-[31May2025 02:17:49.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> una hormiga baila
-[31May2025 02:18:07.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[31May2025 02:18:09.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
-[31May2025 02:18:18.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ESTA BAILANDO CUMBIAS
-[31May2025 02:18:44.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Packing Up!]
-[31May2025 02:18:48.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> SIIIII
-[31May2025 02:18:50.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> esta casita
-[31May2025 02:18:52.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> me sirve
-[31May2025 02:18:55.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
-[31May2025 02:19:44.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Will it Come Back?]
-[31May2025 02:19:53.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> es de matiw la casita no'?
-[31May2025 02:20:05.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> YES
-[31May2025 02:20:11.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Bigger is better]
-[31May2025 02:21:20.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> VEO VEO
-[31May2025 02:21:24.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> UN JOJAJO7
-[31May2025 02:21:31.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> un pdj
-[31May2025 02:22:38.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[31May2025 02:22:49.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> casi me funas
-[31May2025 02:23:04.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XDDDDDDDDDDDDDDDDDDDDD
-[31May2025 02:23:12.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> CASI
-[31May2025 02:23:19.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> mata
-[31May2025 02:23:42.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> sigue pe
-[31May2025 02:24:01.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES fell from a high place
-[31May2025 02:24:03.265] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[31May2025 02:24:03.265] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[31May2025 02:24:09.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> xd
-[31May2025 02:25:25.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> sigamos explorando
-[31May2025 02:25:32.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ven
-[31May2025 02:25:34.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> xd
-[31May2025 02:25:48.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> cueva de amatista
-[31May2025 02:25:51.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> tranquilo
-[31May2025 02:25:56.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> factores
-[31May2025 02:27:02.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> degeneracion actual
-[31May2025 02:27:09.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
-[31May2025 02:27:15.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> degeneracion total
-[31May2025 02:27:56.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> CHICOOOO
-[31May2025 02:28:00.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> me voy XD
-[31May2025 02:28:01.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> we
-[31May2025 02:28:07.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> pera
-[31May2025 02:28:18.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> dime cual es el material de cobre?
-[31May2025 02:28:29.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> cooper
-[31May2025 02:28:32.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> es eso XD
-[31May2025 02:28:34.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok
-[31May2025 02:28:40.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> quiza se cierre el server
-[31May2025 02:28:48.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> porque no se es complicado de explicar
-[31May2025 02:28:53.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> buano
-[31May2025 02:28:54.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya avisas
-[31May2025 02:29:01.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok
-[31May2025 02:29:01.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> sino mañana nomas
-[31May2025 02:29:11.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> nomas mañana
-[31May2025 02:29:14.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> chauuuuu
-[31May2025 02:29:15.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
-[31May2025 02:29:15.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[31May2025 02:37:05.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Blade of the Samurai]
-[31May2025 02:37:23.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
-[31May2025 02:37:23.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[31May2025 15:22:41.252] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.948387ms
+[31May2025 15:22:41.261] [main/INFO] [firstaid/registry]: Built local FirstAid registry lookups
+[31May2025 15:22:41.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[31May2025 15:22:41.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[31May2025 15:22:41.370] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[31May2025 15:22:41.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[31May2025 15:22:41.510] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[31May2025 15:22:41.535] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[31May2025 15:22:41.617] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[31May2025 15:22:41.617] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[31May2025 15:22:41.617] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[31May2025 15:22:41.618] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[31May2025 15:22:41.640] [Server thread/INFO] [Puzzles Lib/]: Loading server config for illagerinvasion
+[31May2025 15:22:41.641] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
+[31May2025 15:22:41.649] [Thread-1/INFO] [Puzzles Lib/]: Reloading server config for illagerinvasion
+[31May2025 15:22:41.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[31May2025 15:22:45.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[31May2025 15:22:52.674] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 15:22:52.675] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 15:22:52.676] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 15:22:52.677] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 15:22:52.677] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 15:22:52.678] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 15:22:52.679] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 15:22:52.680] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 15:22:52.681] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 15:22:52.682] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 15:22:52.683] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 15:22:52.683] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 15:22:52.684] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 15:22:52.685] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 15:22:52.877] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[31May2025 15:22:53.378] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 35%
+[31May2025 15:22:53.853] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7976 ms
+[31May2025 15:22:53.854] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (12.220s)! For help, type "help"
+[31May2025 15:22:53.909] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[31May2025 15:22:53.959] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[31May2025 15:22:53.960] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[31May2025 15:26:19.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:49721] logged in with entity id 44 at (-149.57723683390486, 19.0, -218.69999998807907)
+[31May2025 15:26:19.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[31May2025 15:29:20.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES fell from a high place
+[31May2025 15:29:21.759] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 15:29:21.759] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 15:29:23.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.253.80.44:38461] logged in with entity id 681 at (-9.40916390757462, 52.0, 14.560425022444829)
+[31May2025 15:29:23.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[31May2025 15:31:11.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set Anzu_ara's game mode to Creative Mode]
+[31May2025 15:31:22.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[31May2025 15:31:35.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]

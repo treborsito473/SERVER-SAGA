@@ -3679,6 +3679,18 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_pole": "2025-05-31 02:19:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2025-05-31 02:19:44 +0000"
+    },
+    "done": true
+  },
   "packedup:recipes/misc/gold_from_copper": {
     "criteria": {
       "recipe_condition": "2025-05-31 02:20:11 +0000"
@@ -3694,18 +3706,6 @@
   "packedup:iron_or_copper_backpack": {
     "criteria": {
       "has_copper_backpack": "2025-05-31 02:20:11 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:root": {
-    "criteria": {
-      "has_pole": "2025-05-31 02:19:37 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:boomerang": {
-    "criteria": {
-      "has_boomerang": "2025-05-31 02:19:44 +0000"
     },
     "done": true
   },

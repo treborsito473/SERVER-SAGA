@@ -303,3 +303,13 @@
 [31May2025 20:32:56.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover was kicked for floating too long!
 [31May2025 20:32:56.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Flying is not enabled on this server
 [31May2025 20:32:56.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[31May2025 20:36:05.600] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@35688a70[id=<null>,name=joaocover,properties={},legacy=false] (/127.66.89.196:41423) lost connection: Disconnected
+[31May2025 20:37:43.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.66.89.196:48647] logged in with entity id 41554 at (28.746810432563553, 67.23527968815391, -10.821675674924204)
+[31May2025 20:37:43.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[31May2025 20:37:52.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover fell from a high place
+[31May2025 20:37:54.864] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 20:37:54.864] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 20:39:15.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Not Today, Thank You]
+[31May2025 20:39:17.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.253.80.44:56127] logged in with entity id 42770 at (9.500540201900524, 62.0, -103.46047483955374)
+[31May2025 20:39:17.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[31May2025 20:42:59.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3680ms or 73 ticks behind

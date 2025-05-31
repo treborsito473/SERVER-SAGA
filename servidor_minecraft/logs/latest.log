@@ -340,3 +340,1488 @@
 [31May2025 21:02:08.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Leafcutter Ant
 [31May2025 21:02:10.058] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [31May2025 21:02:10.059] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:05:45.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[31May2025 21:06:22.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Hunt and Gather]
+[31May2025 21:08:29.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
+[31May2025 21:08:30.510] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:08:30.510] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 21:08:48.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 0.9566352532648459,-14.855963649522778,-1.390356792009459
+[31May2025 21:08:50.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover was kicked for floating too long!
+[31May2025 21:08:50.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Flying is not enabled on this server
+[31May2025 21:08:50.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[31May2025 21:08:59.617] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.66.89.196:35493] logged in with entity id 56724 at (24.109400312187777, 121.70534929612526, -7.700440786438544)
+[31May2025 21:08:59.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[31May2025 21:09:14.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Gave 1 [Black Bed] to joaocover]
+[31May2025 21:09:41.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[31May2025 21:12:43.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Voluntary Exile]
+[31May2025 21:13:28.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:13:30.319] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:13:30.320] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 21:13:38.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:13:40.169] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:13:40.170] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 21:13:55.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:13:56.270] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:13:56.270] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 21:14:03.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:14:04.767] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:14:04.767] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:14:08.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:14:09.722] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:14:09.722] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 21:14:25.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:14:26.563] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:14:26.563] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 21:14:27.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Vindicator
+[31May2025 21:14:28.838] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:14:28.839] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 21:14:32.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:14:33.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Vindicator
+[31May2025 21:14:34.100] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:14:34.101] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:14:34.766] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:34.767] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@1f5072fd, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:34.993] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:34.994] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@11751e43, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:35.371] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:35.372] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@508442d0, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:35.671] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:35.672] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@7e646e8a, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:35.856] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:35.856] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@71c921ea, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:36.118] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:36.119] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@6b745c77, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:36.361] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:36.361] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@301e1f9c, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:36.412] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:36.413] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@2144e57a, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:36.521] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:36.522] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@8db0cdd, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:36.757] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:36.758] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@4a107e2f, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:37.065] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:37.066] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@1dcbb738, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:37.212] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:37.212] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@1eb891f9, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:37.265] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:37.265] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@255c1211, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:37.414] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:37.414] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@2c0d3dd4, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:37.609] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:37.610] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@45682ac1, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:37.866] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:37.867] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@7dbeabec, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:38.081] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{Anzu_ara} does not have Capabilities!
+	Index: 1
+	Listeners:
+		0: HIGHEST
+		1: ASM: com.dplayend.justleveling.registry.RegistryCommonEvents@19ba2230 onPlayerAttackEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		2: HIGH
+		3: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		4: NORMAL
+		5: ASM: com.bobmowzie.mowziesmobs.server.ServerEventHandler@1708a1e3 onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		6: ASM: com.bobmowzie.mowziesmobs.server.ability.AbilityCommonEventHandler@685332b4 onLeftClickEntity(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		7: ASM: com.github.alexmodguy.alexscaves.server.event.CommonEvents@23166251 playerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		8: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@6c398dee onPlayerAttackEntityEvent(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		9: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttackMob(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+		10: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a3c275a onPlayerAttack(Lnet/minecraftforge/event/entity/player/AttackEntityEvent;)V
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228)
+	at TRANSFORMER/justleveling@1.7/com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[31May2025 21:14:38.082] [Server thread/ERROR] [net.minecraft.network.protocol.PacketUtils/]: Failed to handle packet net.minecraft.network.protocol.game.ServerboundInteractPacket@73bd29ec, suppressing error
+java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capabilities!
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.lambda$get$0(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:261) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at com.dplayend.justleveling.common.capability.AptitudeCapability.get(AptitudeCapability.java:89) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.RegistryCommonEvents.onPlayerAttackEntity(RegistryCommonEvents.java:228) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at com.dplayend.justleveling.registry.__RegistryCommonEvents_onPlayerAttackEntity_AttackEntityEvent.invoke(.dynamic) ~[justleveling-forge-1.20.x-v1.7.jar%23163!/:forge-1.20.x-v1.7]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onPlayerAttackTarget(ForgeHooks.java:736) ~[forge-1.20.1-47.3.7-universal.jar%23190!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1086) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl$1.m_141994_(ServerGamePacketListenerImpl.java:1487) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket$1.m_142457_(ServerboundInteractPacket.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_179617_(ServerboundInteractPacket.java:66) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_6946_(ServerGamePacketListenerImpl.java:1455) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.game.ServerboundInteractPacket.m_5797_(ServerboundInteractPacket.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.network.protocol.PacketUtils.m_263899_(PacketUtils.java:22) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:733) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23185!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[31May2025 21:14:39.230] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:14:39.230] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:14:59.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Basher
+[31May2025 21:15:01.262] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:15:01.262] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:15:05.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Vindicator
+[31May2025 21:15:06.862] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:15:06.863] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:15:14.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Basher
+[31May2025 21:15:15.923] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:15:15.923] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 21:15:23.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:15:24.908] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:15:24.909] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 21:15:34.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Vindicator
+[31May2025 21:15:35.877] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:15:35.877] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 21:15:50.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:15:51.581] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:15:51.581] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:16:02.664] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[31May2025 21:16:02.821] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[31May2025 21:16:05.769] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/65719, l='ServerLevel[world]', x=-458.67, y=63.00, z=-311.94] died, message: 'Fletcher was shot by Pillager'
+[31May2025 21:17:14.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was shot by Alchemist
+[31May2025 21:17:15.562] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:17:15.562] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 21:17:35.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover overheated to death
+[31May2025 21:17:36.968] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:17:36.968] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:17:55.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Local Brewery]
+[31May2025 21:19:00.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover overheated to death
+[31May2025 21:19:02.530] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:19:02.531] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:19:17.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to Anzu_ara]
+[31May2025 21:19:25.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Vindicator
+[31May2025 21:19:26.915] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:19:26.915] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:19:30.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to Anzu_ara]
+[31May2025 21:19:32.263] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/68186, l='ServerLevel[world]', x=-426.61, y=63.50, z=-352.45] died, message: 'Farmer was slain by Guster'
+[31May2025 21:19:38.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Vindicator
+[31May2025 21:19:40.619] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:19:40.619] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 21:19:44.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:19:44.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara fell from a high place
+[31May2025 21:19:45.466] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:19:45.467] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:19:46.021] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:19:46.021] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 21:20:12.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:20:13.656] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:20:13.656] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:20:26.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:20:28.079] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:20:28.079] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:20:37.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:20:38.556] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:20:38.556] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:20:58.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:21:00.217] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:21:00.217] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:21:10.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Vindicator
+[31May2025 21:21:11.571] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:21:11.571] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 21:21:12.514] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70916, l='ServerLevel[world]', x=-477.11, y=68.00, z=-339.55] died, message: 'Villager was shot by Pillager'
+[31May2025 21:21:17.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to 247.500000, 34.500000, -599.500000]
+[31May2025 21:21:19.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Vindicator
+[31May2025 21:21:19.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:21:20.412] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:21:20.412] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 21:21:20.707] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:21:20.708] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:21:23.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to 244.500000, 34.500000, -600.500000]
+[31May2025 21:21:53.909] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/71462, l='ServerLevel[world]', x=-474.70, y=65.02, z=-344.19] died, message: 'Nitwit was shot by Pillager'
+[31May2025 21:22:24.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/71502, l='ServerLevel[world]', x=-449.49, y=63.00, z=-326.23] died, message: 'Nitwit was shot by Pillager'
+[31May2025 21:23:36.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:23:38.159] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:23:38.159] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:24:04.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara fell from a high place
+[31May2025 21:24:05.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Pillager
+[31May2025 21:24:06.019] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:24:06.020] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 21:24:06.369] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:24:06.370] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:24:31.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Cave Spider
+[31May2025 21:24:32.932] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:24:32.932] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty

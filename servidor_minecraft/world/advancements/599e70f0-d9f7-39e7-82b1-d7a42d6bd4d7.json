@@ -47,6 +47,7 @@
       "minecraft:desert": "2025-05-27 01:45:12 +0000",
       "minecraft:warm_ocean": "2025-05-30 00:20:49 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-31 20:29:11 +0000",
+      "minecraft:savanna": "2025-05-31 21:19:18 +0000",
       "minecraft:plains": "2025-05-27 01:23:57 +0000"
     },
     "done": false
@@ -2374,6 +2375,7 @@
     "criteria": {
       "minecraft:pillager": "2025-05-31 01:19:37 +0000",
       "minecraft:skeleton": "2025-05-27 01:30:12 +0000",
+      "minecraft:vindicator": "2025-05-31 21:19:51 +0000",
       "minecraft:spider": "2025-05-27 01:30:45 +0000",
       "minecraft:creeper": "2025-05-31 01:33:35 +0000",
       "minecraft:phantom": "2025-05-31 02:03:31 +0000",

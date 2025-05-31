@@ -41,10 +41,12 @@
       "minecraft:beach": "2025-05-27 01:44:59 +0000",
       "minecraft:sparse_jungle": "2025-05-27 01:30:23 +0000",
       "minecraft:river": "2025-05-27 01:08:46 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-31 20:28:53 +0000",
       "minecraft:forest": "2025-05-26 01:37:29 +0000",
       "minecraft:lush_caves": "2025-05-27 01:37:36 +0000",
       "minecraft:desert": "2025-05-27 01:45:12 +0000",
       "minecraft:warm_ocean": "2025-05-30 00:20:49 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-31 20:29:11 +0000",
       "minecraft:plains": "2025-05-27 01:23:57 +0000"
     },
     "done": false
@@ -2332,6 +2334,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-05-27 01:24:43 +0000",
+      "pumpkin_pie": "2025-05-31 20:17:49 +0000",
       "bread": "2025-05-27 01:51:41 +0000",
       "beetroot": "2025-05-27 01:47:19 +0000"
     },
@@ -3724,6 +3727,66 @@
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-05-31 15:32:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-31 20:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-31 20:28:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-05-31 20:25:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-31 20:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-31 20:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-31 20:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-31 20:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-31 20:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-31 20:28:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-31 20:28:21 +0000"
     },
     "done": true
   },

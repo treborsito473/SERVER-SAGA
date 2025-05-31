@@ -229,3 +229,11 @@
 [31May2025 19:09:07.447] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [31May2025 19:09:21.461] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.253.80.44:47147] logged in with entity id 10473 at (-18.947722013097028, 62.07326432466507, -226.84543009426105)
 [31May2025 19:09:21.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[31May2025 19:26:02.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Anzu_ara) moved wrongly! 1.092041015625
+[31May2025 19:26:02.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Anzu_ara) moved wrongly! 1.092041015625
+[31May2025 19:26:02.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Anzu_ara) moved wrongly! 1.092041015625
+[31May2025 19:26:02.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Anzu_ara) moved wrongly! 1.092041015625
+[31May2025 19:26:02.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Anzu_ara) moved wrongly! 1.092041015625
+[31May2025 19:26:02.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Anzu_ara) moved wrongly! 1.092041015625
+[31May2025 19:26:02.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Anzu_ara) moved wrongly! 1.092041015625
+[31May2025 19:26:02.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Anzu_ara) moved wrongly! 1.092041015625

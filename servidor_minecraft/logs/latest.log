@@ -313,3 +313,12 @@
 [31May2025 20:39:17.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.253.80.44:56127] logged in with entity id 42770 at (9.500540201900524, 62.0, -103.46047483955374)
 [31May2025 20:39:17.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
 [31May2025 20:42:59.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3680ms or 73 ticks behind
+[31May2025 20:48:56.758] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[31May2025 20:48:56.758] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[31May2025 20:48:58.585] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[31May2025 20:48:58.585] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[31May2025 20:48:58.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was doomed to fall by Anzu_ara
+[31May2025 20:49:00.055] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 20:49:00.055] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 20:50:31.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XDDDDDDDDDDDDDDDD
+[31May2025 20:50:46.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=128, y=56, z=-399} BlockPos{x=128, y=55, z=-399}

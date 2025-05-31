@@ -7066,3 +7066,563 @@ java.lang.IllegalArgumentException: Player literal{C0LIGAMES} does not have Capa
 [31May2025 02:06:07.188] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [31May2025 02:06:11.191] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [31May2025 02:06:11.788] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:06:12.641] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:06:13.341] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:06:14.048] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:06:14.743] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:06:15.488] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:06:15.599] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:06:16.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:06:16.419] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:06:18.065] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:06:19.096] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:06:19.838] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:06:25.477] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:06:26.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 02:06:26.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 02:06:27.483] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:06:29.488] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:06:31.485] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:06:33.484] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:06:38.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> COMO PICO EL COBRE?
+[31May2025 02:06:44.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XDDDDDDDDDD
+[31May2025 02:06:48.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> picando
+[31May2025 02:06:51.637] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:06:52.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CON'
+[31May2025 02:06:53.238] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:06:54.220] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:06:54.681] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:06:55.431] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:06:55.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Zombie
+[31May2025 02:06:55.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ?
+[31May2025 02:06:57.119] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:06:57.119] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 02:06:57.120] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 02:06:57.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> TU BARCO ESTA BUENO JOAU UWU
+[31May2025 02:07:09.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> HIJO DE TU MADRE
+[31May2025 02:07:25.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ENCONTRE PLATA :)
+[31May2025 02:07:28.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[31May2025 02:07:33.577] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:07:33.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES was slain by Wither Skeleton
+[31May2025 02:07:35.105] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:07:35.106] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 02:07:35.106] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 02:07:42.982] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:07:43.187] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:07:44.032] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:07:44.187] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:07:45.981] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:07:55.980] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:03.786] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:03.786] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:08:03.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:05.468] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:05.468] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:08:08.781] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:08.937] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:10.781] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:10.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:10.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:08:10.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:11.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:12.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:12.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:08:14.589] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:14.637] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:14.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:15.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:15.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:08:15.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:16.791] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:16.791] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:08:16.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:16.968] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:17.118] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:18.678] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:18.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:18.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:08:18.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:19.018] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:19.228] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:19.229] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:19.292] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:20.131] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:20.567] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:20.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:20.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:20.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:21.133] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:21.486] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:21.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:08:21.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:21.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:22.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:23.867] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:24.169] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:25.121] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:25.586] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:26.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:26.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:08:26.828] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:27.136] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:29.492] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:29.493] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:08:29.493] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:30.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> JODER
+[31May2025 02:08:33.427] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:34.427] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:34.438] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:34.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> UN TOTEM BOLUDO
+[31May2025 02:08:35.247] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:36.037] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:36.037] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:08:36.037] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:36.077] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:36.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> UN TOTWM
+[31May2025 02:08:36.927] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:37.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:37.582] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:38.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> oooo
+[31May2025 02:08:41.695] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:41.695] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:08:41.695] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:42.789] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:42.789] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:08:43.941] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:43.941] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:08:43.941] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:43.941] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:45.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> EN TU BARCO
+[31May2025 02:08:47.511] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:47.512] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:08:47.512] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:48.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> UWU
+[31May2025 02:08:48.737] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:48.737] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:08:48.737] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:49.685] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:49.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:08:51.877] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:51.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Zombie
+[31May2025 02:08:53.388] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:08:53.388] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 02:08:53.388] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 02:08:55.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[31May2025 02:09:04.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Cover Me with Diamonds]
+[31May2025 02:09:05.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> nombre si tew lo robas
+[31May2025 02:09:23.128] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:09:31.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> para que sirve el cristal de vida?
+[31May2025 02:09:33.038] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{joaocover})
+[31May2025 02:09:36.727] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:09:37.728] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:09:38.985] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:09:39.028] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:09:40.338] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:09:40.890] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:09:41.585] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:10:13.654] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:10:25.088] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:10:27.391] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:10:27.936] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:10:28.539] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:10:29.787] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:10:30.178] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:10:31.030] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:10:32.030] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:10:32.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:10:32.687] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:11:20.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> vayan debajo del barco
+[31May2025 02:11:26.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31May2025 02:11:26.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31May2025 02:11:29.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> VOY
+[31May2025 02:11:30.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> hare una levitacion salvada
+[31May2025 02:11:40.436] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:11:42.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:11:42.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:11:43.789] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:11:43.790] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:11:44.590] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:11:44.590] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:11:44.986] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:11:53.584] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:00.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 2.898197637967229,-5.024424088213692,8.259340504623793
+[31May2025 02:12:00.687] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:12:05.682] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:06.932] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:06.985] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:07.035] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:07.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:12:07.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:12:07.083] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:07.132] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:07.182] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:07.231] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:07.283] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:07.333] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:07.382] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:07.733] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:07.783] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:07.835] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:07.846] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:12:07.883] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:07.933] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:07.984] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:08.033] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:08.084] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:08.432] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:08.482] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:08.533] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:08.585] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:08.632] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:08.684] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:08.735] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:08.784] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:08.835] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:08.882] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:08.933] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:08.987] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:09.032] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:09.083] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:16.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> tenes toten?
+[31May2025 02:12:20.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> si XD
+[31May2025 02:12:32.182] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:33.178] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:34.179] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:36.580] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:36.589] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:12:37.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> YA ESTOY
+[31May2025 02:12:38.626] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:39.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya?
+[31May2025 02:12:39.282] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:39.332] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:39.384] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:39.433] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:39.483] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:39.536] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:12:39.925] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:40.926] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:41.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:12:42.325] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:43.227] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:45.076] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:45.982] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:45.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Spider
+[31May2025 02:12:47.735] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 02:12:47.736] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 02:12:47.785] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:47.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> estan lejos aun
+[31May2025 02:12:50.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> los veo XD
+[31May2025 02:12:54.913] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:12:54.914] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:12:56.029] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:56.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:12:57.029] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:57.839] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:12:57.840] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:12:58.925] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:12:59.135] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:13:00.226] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:13:00.725] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:13:00.861] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:13:01.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:13:01.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:13:02.476] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:13:03.036] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:13:04.725] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:13:04.937] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:13:07.075] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:13:08.076] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:13:08.592] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:13:08.592] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[31May2025 02:13:09.337] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:13:09.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ven pe
+[31May2025 02:13:18.282] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:13:20.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> zzz
+[31May2025 02:13:20.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> gus ven pe
+[31May2025 02:13:41.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya estabas bien
+[31May2025 02:13:43.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ven joao
+[31May2025 02:13:50.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> HAY 15 CREEPER
+[31May2025 02:13:53.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[31May2025 02:13:54.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> mira
+[31May2025 02:13:56.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> observa
+[31May2025 02:13:59.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> soy tryhard
+[31May2025 02:14:05.738] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:14:05.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES fell from a high place
+[31May2025 02:14:07.192] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:14:07.192] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 02:14:07.192] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 02:14:09.481] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:14:09.609] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:14:10.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XDDDDDDDDDDDDDDD
+[31May2025 02:14:16.780] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:14:18.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> no se puede usar la pocion
+[31May2025 02:14:22.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES was kicked for floating too long!
+[31May2025 02:14:22.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[31May2025 02:14:22.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[31May2025 02:14:22.979] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31May2025 02:14:28.409] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:14:29.327] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:14:36.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> bno ya me llaman bye
+[31May2025 02:14:38.601] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 37 messages to dispatch.
+[31May2025 02:14:38.633] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[31May2025 02:14:38.683] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[31May2025 02:14:38.734] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[31May2025 02:14:38.784] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry golems:modifier_serializer' to 'fml:handshake' sequence 3
+[31May2025 02:14:38.833] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 4
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [giacomos_exp, mowziesmobs, supermartijn642configlib, xpfromharvest, geckolib, xray, jei, illagerinvasion, libraryferret, stalwart_dungeons, xaeroworldmap, citadel, alexsmobs, mixinextras, glitchcore, guardvillagers, iceandfire, puzzlesaccessapi, firstaid, dungeons_arise_seven_seas, cloth_config, tlskincape, emc, structure_gel, dungeons_arise, minecraft, farmersdelight, alexscaves, fantasy_armor, silentlib, justleveling, supermartijn642corelib, packedup, dungeons_enhanced, spartan_materials, golems, spartanshields, xaerominimap, new_xp_ore, toughasnails, bettervillage, spartanweaponry, architectury, magistuarmory, puzzleslib, scalinghealth, forge]
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'stalwart_dungeons:stalwart_dungeons' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'justleveling:network' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Version test of '7' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'firstaid:channel' : Version test of '4.0' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'guardvillagers:main' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartan_materials:spartan_materials' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'silentlib:network' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'packedup:main' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'toughasnails:main' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'new_xp_ore:new_xp_ore' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'golems:channel' : Version test of '5' from client : ACCEPTED
+[31May2025 02:14:38.859] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of '1.1.8' from client : ACCEPTED
+[31May2025 02:14:38.860] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.860] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:config_sync' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.860] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.860] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[31May2025 02:14:38.860] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'scalinghealth:network' : Version test of '3' from client : ACCEPTED
+[31May2025 02:14:38.860] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[31May2025 02:14:38.860] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.860] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[31May2025 02:14:38.860] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[31May2025 02:14:38.860] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[31May2025 02:14:38.860] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[31May2025 02:14:38.860] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[31May2025 02:14:38.860] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[31May2025 02:14:38.877] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[31May2025 02:14:38.877] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:38.877] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:38.883] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 5
+[31May2025 02:14:38.937] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 6
+[31May2025 02:14:38.983] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry golems:behavior_serializer' to 'fml:handshake' sequence 7
+[31May2025 02:14:38.999] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[31May2025 02:14:38.999] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:38.999] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.035] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 8
+[31May2025 02:14:39.036] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[31May2025 02:14:39.036] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.036] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.082] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 9
+[31May2025 02:14:39.134] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:oil_effects' to 'fml:handshake' sequence 10
+[31May2025 02:14:39.183] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:weapon_traits' to 'fml:handshake' sequence 11
+[31May2025 02:14:39.232] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry firstaid:damage_distribution_algorithms' to 'fml:handshake' sequence 12
+[31May2025 02:14:39.281] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 13
+[31May2025 02:14:39.333] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry firstaid:damage_distribution_targets' to 'fml:handshake' sequence 14
+[31May2025 02:14:39.382] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry justleveling:aptitudes' to 'fml:handshake' sequence 15
+[31May2025 02:14:39.404] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[31May2025 02:14:39.404] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.404] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.404] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[31May2025 02:14:39.405] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.405] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.405] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[31May2025 02:14:39.405] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.405] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.405] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[31May2025 02:14:39.405] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.405] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.406] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[31May2025 02:14:39.406] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.406] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.406] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[31May2025 02:14:39.406] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.406] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.406] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[31May2025 02:14:39.406] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.406] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.407] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[31May2025 02:14:39.407] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.407] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.433] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 16
+[31May2025 02:14:39.484] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 17
+[31May2025 02:14:39.521] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[31May2025 02:14:39.521] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.521] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.521] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[31May2025 02:14:39.521] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.521] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.533] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry justleveling:skills' to 'fml:handshake' sequence 18
+[31May2025 02:14:39.533] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[31May2025 02:14:39.533] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.533] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.582] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 19
+[31May2025 02:14:39.605] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[31May2025 02:14:39.605] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.605] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.631] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 20
+[31May2025 02:14:39.643] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[31May2025 02:14:39.643] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.643] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.683] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 21
+[31May2025 02:14:39.706] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[31May2025 02:14:39.706] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.706] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.736] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 22
+[31May2025 02:14:39.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[31May2025 02:14:39.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.755] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.783] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry justleveling:titles' to 'fml:handshake' sequence 23
+[31May2025 02:14:39.783] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[31May2025 02:14:39.783] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.783] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.832] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 24
+[31May2025 02:14:39.882] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 25
+[31May2025 02:14:39.902] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[31May2025 02:14:39.902] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.902] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.904] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[31May2025 02:14:39.904] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:39.904] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:39.934] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 26
+[31May2025 02:14:39.982] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry justleveling:passives' to 'fml:handshake' sequence 27
+[31May2025 02:14:40.017] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[31May2025 02:14:40.017] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:40.017] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:40.017] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[31May2025 02:14:40.017] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:40.017] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:40.036] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 28
+[31May2025 02:14:40.036] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[31May2025 02:14:40.036] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:40.036] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:40.082] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry firstaid:debuff_builders' to 'fml:handshake' sequence 29
+[31May2025 02:14:40.134] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 30
+[31May2025 02:14:40.149] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[31May2025 02:14:40.149] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:40.149] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:40.150] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[31May2025 02:14:40.150] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:40.150] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:40.181] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 31
+[31May2025 02:14:40.232] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config firstaid-server.toml' to 'fml:handshake' sequence 32
+[31May2025 02:14:40.256] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[31May2025 02:14:40.256] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:40.256] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:40.256] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[31May2025 02:14:40.256] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:40.256] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:40.284] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config illagerinvasion-server.toml' to 'fml:handshake' sequence 33
+[31May2025 02:14:40.292] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[31May2025 02:14:40.292] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:40.293] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:40.331] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config scalinghealth-server.toml' to 'fml:handshake' sequence 34
+[31May2025 02:14:40.385] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 35
+[31May2025 02:14:40.436] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 36
+[31May2025 02:14:42.075] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[31May2025 02:14:42.075] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:42.075] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:42.116] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[31May2025 02:14:42.116] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:42.116] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:42.116] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[31May2025 02:14:42.116] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:42.116] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:42.116] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[31May2025 02:14:42.116] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:42.116] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:42.116] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[31May2025 02:14:42.116] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:42.116] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:42.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[31May2025 02:14:42.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[31May2025 02:14:42.127] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[31May2025 02:14:42.134] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[31May2025 02:14:42.193] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:14:42.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:40771] logged in with entity id 28740 at (2.331595859095845, 78.23527968815392, 52.86816482573039)
+[31May2025 02:14:42.195] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@7eafb55b into net.minecraft.network.Connection@40c3490c
+[31May2025 02:14:42.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[31May2025 02:14:42.270] [Server thread/DEBUG] [firstaid/]: Sending damage model to literal{C0LIGAMES}
+[31May2025 02:14:42.270] [Server thread/DEBUG] [Scaling Health/]: Sending login packet to player ServerPlayer['C0LIGAMES'/28740, l='ServerLevel[world]', x=2.33, y=78.24, z=52.87]
+[31May2025 02:14:43.580] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asrielmanrique lost connection: Disconnected
+[31May2025 02:14:43.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique left the game
+[31May2025 02:14:43.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok
+[31May2025 02:14:53.482] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:14:53.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES fell from a high place
+[31May2025 02:14:56.585] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:14:56.585] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 02:14:56.585] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 02:15:00.980] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:15:02.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> que paso con gus?
+[31May2025 02:15:04.279] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:04.330] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:04.380] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:04.431] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:04.479] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:04.533] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:04.581] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:04.633] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:04.680] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:04.731] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:04.779] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:04.831] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:04.881] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:04.930] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:04.980] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.030] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.087] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.132] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.181] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.234] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.281] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.334] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.382] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.433] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.480] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.531] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.581] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.630] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.681] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.731] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.781] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.830] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.880] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.932] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:05.981] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.032] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.082] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.131] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.180] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.230] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.280] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.331] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.383] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.430] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.479] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.530] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> oe te quitaron la espada
+[31May2025 02:15:06.582] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.631] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.680] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.732] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.781] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:06.832] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[31May2025 02:15:07.540] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:15:11.124] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[31May2025 02:15:13.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SE NOS FUE
+[31May2025 02:15:44.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> LASM INAS DE XP ESTAN ROTAS
+[31May2025 02:15:59.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ON CHUCHA ESTAS?
+[31May2025 02:16:09.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CONTRA HORMIGAS
+[31May2025 02:16:13.004] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:16:14.755] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:16:15.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[31May2025 02:16:20.655] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[31May2025 02:16:20.805] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!

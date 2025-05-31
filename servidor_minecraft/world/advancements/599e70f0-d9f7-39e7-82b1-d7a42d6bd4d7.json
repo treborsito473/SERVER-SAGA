@@ -2373,6 +2373,8 @@
       "minecraft:skeleton": "2025-05-27 01:30:12 +0000",
       "minecraft:spider": "2025-05-27 01:30:45 +0000",
       "minecraft:creeper": "2025-05-31 01:33:35 +0000",
+      "minecraft:phantom": "2025-05-31 02:03:31 +0000",
+      "minecraft:wither_skeleton": "2025-05-31 02:03:40 +0000",
       "minecraft:husk": "2025-05-27 01:49:24 +0000",
       "minecraft:zombie": "2025-05-27 01:28:26 +0000",
       "minecraft:drowned": "2025-05-27 01:48:38 +0000"
@@ -2765,6 +2767,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_halberd": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 02:01:13 +0000"
@@ -2774,6 +2782,18 @@
   "spartanweaponry:recipes/golden_dagger": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_spear": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
     },
     "done": true
   },
@@ -2795,6 +2815,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_katana": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-05-31 01:48:41 +0000"
@@ -2807,9 +2833,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_parrying_dagger": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_quarterstaff": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-05-31 01:46:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/huge_quiver_brace": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
     },
     "done": true
   },
@@ -2828,6 +2872,18 @@
   "spartanshields:recipes/obsidian_tower_shield": {
     "criteria": {
       "has_obsidian": "2025-05-31 02:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
     },
     "done": true
   },
@@ -2855,6 +2911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 02:01:13 +0000"
@@ -2864,6 +2926,30 @@
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_saber": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/large_quiver_brace": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_tomahawk": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_warhammer": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
     },
     "done": true
   },
@@ -2885,9 +2971,33 @@
     },
     "done": true
   },
+  "spartanshields:recipes/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2025-05-31 02:01:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_javelin": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-05-31 02:09:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-31 02:01:54 +0000"
     },
     "done": true
   },
@@ -2903,6 +3013,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_battleaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_boomerang": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_saber": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 02:01:13 +0000"
@@ -2912,6 +3034,18 @@
   "spartanweaponry:recipes/golden_battle_hammer": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_scythe": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
     },
     "done": true
   },
@@ -2939,6 +3073,18 @@
     },
     "done": true
   },
+  "toughasnails:recipes/tools/empty_diamond_canteen": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2025-05-31 01:46:46 +0000"
@@ -2948,6 +3094,12 @@
   "spartanweaponry:recipes/golden_quarterstaff": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-31 02:04:40 +0000"
     },
     "done": true
   },
@@ -2993,9 +3145,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-31 02:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-05-31 01:35:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
     },
     "done": true
   },
@@ -3029,6 +3199,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_flanged_mace": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-05-31 01:56:43 +0000"
@@ -3041,6 +3217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2025-05-31 01:46:47 +0000"
@@ -3050,6 +3232,12 @@
   "spartanweaponry:recipes/golden_parrying_dagger": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_pike": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
     },
     "done": true
   },
@@ -3131,6 +3319,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_halberd": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_black_boots": {
     "criteria": {
       "has_item": "2025-05-31 01:46:46 +0000"
@@ -3143,9 +3337,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_heavy_crossbow": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_glaive": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_longbow": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
     },
     "done": true
   },
@@ -3185,6 +3391,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_greatsword": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-05-31 01:56:43 +0000"
@@ -3197,9 +3415,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_lance": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-05-31 01:56:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_longsword": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
     },
     "done": true
   },
@@ -3287,15 +3517,39 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_rapier": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-05-31 02:00:33 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_battle_hammer": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-05-31 01:45:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_throwing_knife": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
     },
     "done": true
   },
@@ -3323,6 +3577,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_dagger": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-31 02:01:18 +0000"
@@ -3341,6 +3601,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-05-31 01:45:43 +0000"
@@ -3350,6 +3622,12 @@
   "spartanweaponry:recipes/golden_heavy_crossbow": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_glaive": {
+    "criteria": {
+      "has_diamond": "2025-05-31 02:02:33 +0000"
     },
     "done": true
   },
@@ -3374,6 +3652,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-05-31 02:01:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-05-31 02:02:08 +0000"
     },
     "done": true
   },

@@ -1046,6 +1046,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-30 00:47:36 +0000",
+      "minecraft:spider": "2025-05-31 02:07:45 +0000",
       "minecraft:zombie": "2025-05-31 01:31:45 +0000"
     },
     "done": false
@@ -1494,6 +1495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-31 02:07:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_boomerang": {
     "criteria": {
       "has_copper_ingot": "2025-05-31 01:18:06 +0000"
@@ -1515,6 +1522,12 @@
   "spartanweaponry:recipes/copper_warhammer": {
     "criteria": {
       "has_copper_ingot": "2025-05-31 01:18:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-31 02:07:52 +0000"
     },
     "done": true
   },
@@ -1638,6 +1651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-31 02:07:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-31 01:45:04 +0000"
@@ -1671,6 +1690,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-31 01:28:44 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2025-05-31 02:07:52 +0000"
     },
     "done": true
   },
@@ -1782,6 +1807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-31 02:13:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-31 01:29:42 +0000"
@@ -1884,6 +1915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-31 02:07:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-05-31 01:30:44 +0000"
@@ -1899,6 +1936,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-05-31 01:57:16 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/rain_collector": {
+    "criteria": {
+      "has_string": "2025-05-31 02:07:52 +0000"
     },
     "done": true
   },
@@ -1971,6 +2014,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-31 01:45:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-31 02:07:52 +0000"
     },
     "done": true
   },

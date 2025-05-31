@@ -1087,6 +1087,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "apple": "2025-05-31 21:07:23 +0000",
+      "bread": "2025-05-31 21:37:54 +0000",
       "rotten_flesh": "2025-05-31 02:28:26 +0000",
       "golden_carrot": "2025-05-27 01:49:48 +0000"
     },
@@ -2514,6 +2515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-31 21:39:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-31 21:17:10 +0000"
@@ -2595,6 +2602,12 @@
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-05-31 21:26:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-31 21:39:27 +0000"
     },
     "done": true
   },

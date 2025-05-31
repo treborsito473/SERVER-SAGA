@@ -1845,3 +1845,37 @@ java.lang.IllegalArgumentException: Player literal{Anzu_ara} does not have Capab
 [31May2025 21:34:32.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by C0LIGAMES
 [31May2025 21:34:35.328] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [31May2025 21:34:35.328] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 21:35:21.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Zombie
+[31May2025 21:35:23.385] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:35:23.385] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 21:35:59.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[31May2025 21:36:23.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[31May2025 21:36:39.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Wither Skeleton
+[31May2025 21:36:40.834] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:36:40.835] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[31May2025 21:37:21.008] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=210, z=24}
+[31May2025 21:38:18.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Ice Bucket Challenge]
+[31May2025 21:38:21.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Diamonds!]
+[31May2025 21:38:39.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was shot by Skeleton
+[31May2025 21:38:41.017] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:38:41.017] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[31May2025 21:39:01.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=5, y=207, z=27}
+[31May2025 21:39:01.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=206, z=27}
+[31May2025 21:39:01.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=205, z=27}
+[31May2025 21:39:01.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=207, z=27}
+[31May2025 21:39:10.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=212, z=27}
+[31May2025 21:39:10.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-6, y=212, z=27}
+[31May2025 21:39:48.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=217, z=45}
+[31May2025 21:39:49.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=217, z=45}
+[31May2025 21:39:57.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=216, z=44}
+[31May2025 21:39:57.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Swashbuckler]
+[31May2025 21:39:57.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=217, z=45}
+[31May2025 21:40:00.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by Zombie
+[31May2025 21:40:01.706] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[31May2025 21:40:01.706] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[31May2025 21:40:16.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=77, z=38}
+[31May2025 21:40:19.807] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=4, y=77, z=38}
+[31May2025 21:40:26.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara moved too quickly! -0.9713011596678642,-1.0115238583837538,-10.116061155346245
+[31May2025 21:42:22.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Creative Mode]
+[31May2025 21:42:29.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[31May2025 21:44:00.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to Anzu_ara]

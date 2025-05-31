@@ -258,3 +258,26 @@
 [31May2025 23:11:48.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> xd
 [31May2025 23:13:54.537] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
 [31May2025 23:13:54.795] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[31May2025 23:16:37.164] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Anzu_ara
+[31May2025 23:17:05.766] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[31May2025 23:17:06.011] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[31May2025 23:17:06.914] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[31May2025 23:17:07.665] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[31May2025 23:17:08.513] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{Anzu_ara})
+[31May2025 23:19:03.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [A Bigger Blade]
+[31May2025 23:19:44.716] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Anzu_ara
+[31May2025 23:19:47.767] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Anzu_ara
+[31May2025 23:19:58.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> la granja se paso de efectiva xD
+[31May2025 23:20:04.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> DEJA DE AUMENTAR LOS EFECTOS DE POCION DE LOS MODS
+[31May2025 23:20:23.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> se aumenta solo con el paso del tiempo xd
+[31May2025 23:20:29.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NOP
+[31May2025 23:20:47.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> y se aumenta 1 punto por persona afk (byron)
+[31May2025 23:20:49.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> MIENTRAS MAS KILEAS MAS AUMENTA LA DIFICULTD
+[31May2025 23:21:21.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> matando se optiene un item que baja -10 de dif
+[31May2025 23:21:30.964] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by Anzu_ara
+[31May2025 23:21:31.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> SI COMO NO
+[31May2025 23:21:45.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> busca en el jei
+[31May2025 23:21:52.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[31May2025 23:21:52.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[31May2025 23:21:52.164] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31May2025 23:23:57.365] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@261b11[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.253.80.44:44203) lost connection: Disconnected

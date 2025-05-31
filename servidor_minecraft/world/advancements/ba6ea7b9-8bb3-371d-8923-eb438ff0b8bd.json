@@ -1086,6 +1086,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-05-31 23:18:29 +0000",
       "apple": "2025-05-31 21:07:23 +0000",
       "bread": "2025-05-31 21:37:54 +0000",
       "rotten_flesh": "2025-05-31 02:28:26 +0000",
@@ -2867,6 +2868,24 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-31 22:25:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-05-31 23:17:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-05-31 23:17:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-05-31 23:17:45 +0000"
     },
     "done": true
   },

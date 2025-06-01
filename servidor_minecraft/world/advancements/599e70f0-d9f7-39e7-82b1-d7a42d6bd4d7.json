@@ -2337,6 +2337,7 @@
       "cooked_porkchop": "2025-05-27 01:24:43 +0000",
       "pumpkin_pie": "2025-05-31 20:17:49 +0000",
       "bread": "2025-05-27 01:51:41 +0000",
+      "rotten_flesh": "2025-06-01 00:08:44 +0000",
       "beetroot": "2025-05-27 01:47:19 +0000"
     },
     "done": false
@@ -3951,6 +3952,48 @@
   "spartanweaponry:longsword": {
     "criteria": {
       "has_longsword": "2025-05-31 22:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-31 23:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-31 23:50:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-06-01 00:09:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-06-01 00:09:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-06-01 00:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-01 00:10:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-06-01 00:09:43 +0000"
     },
     "done": true
   },

@@ -3435,9 +3435,39 @@
     },
     "done": true
   },
-  "minecraft:story/iron_tools": {
+  "iceandfire:recipes/combat/armor_black_leggings": {
     "criteria": {
-      "iron_pickaxe": "2025-06-01 00:18:58 +0000"
+      "has_item": "2025-05-31 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-31 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-05-31 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-05-31 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-05-31 23:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-01 00:09:12 +0000"
     },
     "done": true
   },
@@ -3447,15 +3477,33 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_leggings": {
-    "criteria": {
-      "has_item": "2025-05-31 23:59:21 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/dragonarmor": {
     "criteria": {
       "iron": "2025-06-01 00:15:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_head": {
+    "criteria": {
+      "has_the_recipe": "2025-06-01 00:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-06-01 00:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-01 00:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-01 00:18:58 +0000"
     },
     "done": true
   },
@@ -3471,51 +3519,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_black_chestplate": {
+  "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
-      "has_item": "2025-05-31 23:59:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-06-01 00:17:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-06-01 00:09:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_black_boots": {
-    "criteria": {
-      "has_item": "2025-05-31 23:59:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-01 00:17:58 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
-    "criteria": {
-      "has_dragonscales_black": "2025-05-31 23:59:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_iron_head": {
-    "criteria": {
-      "has_the_recipe": "2025-06-01 00:15:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_black_helmet": {
-    "criteria": {
-      "has_item": "2025-05-31 23:59:21 +0000"
+      "acacia_blossom": "2025-06-01 00:28:39 +0000"
     },
     "done": true
   },

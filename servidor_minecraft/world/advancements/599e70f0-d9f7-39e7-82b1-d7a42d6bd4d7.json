@@ -3973,9 +3973,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_flute": {
+  "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
-      "bestiary": "2025-06-01 00:09:46 +0000"
+      "bestiary": "2025-06-01 00:09:43 +0000"
     },
     "done": true
   },
@@ -3985,15 +3985,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
-      "tamed_animal": "2025-06-01 00:10:23 +0000"
+      "bestiary": "2025-06-01 00:09:46 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_staff": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "bestiary": "2025-06-01 00:09:43 +0000"
+      "tamed_animal": "2025-06-01 00:10:23 +0000"
     },
     "done": true
   },

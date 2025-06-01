@@ -1607,6 +1607,7 @@
     "criteria": {
       "cooked_mutton": "2025-05-31 16:01:14 +0000",
       "apple": "2025-06-01 00:20:50 +0000",
+      "bread": "2025-06-01 01:02:28 +0000",
       "cooked_chicken": "2025-05-31 16:13:42 +0000"
     },
     "done": false
@@ -3600,6 +3601,18 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-06-01 00:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-06-01 01:02:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-06-01 01:00:21 +0000"
     },
     "done": true
   },
